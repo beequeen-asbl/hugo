@@ -52,4 +52,7 @@ deploy:
 	git add *
 	git commit -m "màj $(DAT)"
 	git push
-	git archive --format=tar.gz -o $(BU_DIR)/BQ_$(TGT)_main_$(DAT).tar.gz master
+	git archive --format=tar.gz -o $(BU_DIR)/BQ_$(TGT)_main_$(DAT).tar.gz main
+
+archive:
+	git archive --format=tar.gz -o $(BU_DIR)/BQ_$(TGT)_main_$(DAT).tar.gz main
