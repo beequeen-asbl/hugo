@@ -1,0 +1,49 @@
+baseurl = "/"
+# languageCode = "fr"
+title = "BeeQueen asbl"
+## relativeURLs = true
+relativeURLs = false
+publishdir = "docs"
+disableKinds = ["taxonomy", "taxonomyTerm", "sitemap", "RSS", "404"]
+
+# [[menu.main]]
+#     name = "Accueil"
+#     url = "/"
+#     weight = 1
+# [[menu.main]]
+#     name = "L'asbl"
+#     url = "/beequeen/"
+#     weight = 2
+# [[menu.main]]
+#     name = "Adhésion"
+#     url = "/adhesion/"
+#     weight = 3
+# [[menu.main]]
+#     name = "Conférences"
+#     url = "/agenda/"
+#     weight = 4
+# [[menu.main]]
+#     name = "Rucher école"
+#     url = "/cours/"
+#     weight = 5
+# [[menu.main]]
+#     name = "Parrainage"
+#     url = "/parrainage/"
+#     weight = 6
+# [[menu.main]]
+#     name = "Liens"
+#     url = "/liens/"
+#     weight = 7
+# [[menu.main]]
+#     name = "Contact"
+#     url = "/contact/"
+#     weight = 8
+
+[params]
+    footer = "BeeQueen asbl 2015-"
+    pdf = "https://pdf.beequeen.be"
+
+# for hugo >= 0.60
+[markup.goldmark.renderer]
+unsafe= true
+

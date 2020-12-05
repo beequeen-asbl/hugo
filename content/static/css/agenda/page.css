@@ -1,0 +1,14 @@
+@media (min-width:768px) {
+ .gauche {width:60%;}
+ .droite {width:40%;}
+}
+@media (min-width:960px) {
+ .gauche {width:60%;}
+ .droite {width:40%;}
+}
+
+.gauche blockquote { background:#008080; color:white; padding:1em; margin:0 0 3em 0;}
+.droite blockquote { background:wheat; padding:2em; margin:0}
+.gauche a {color:yellow;}
+
+.covid {color:yellow; font-weight:bold; font-style:italic;} 

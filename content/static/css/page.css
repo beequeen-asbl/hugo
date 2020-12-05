@@ -1,0 +1,36 @@
+/* used only by the home page */
+.conf {background:#008080; color:white; padding:0.5em 2em;}
+.conf a {color:yellow;}
+.webi {background:NavajoWhite; color:black; padding:0.5em 2em;}
+.webi a {color:black;}
+.drt {text-align:right;}
+.drt a {color:white;}
+.cnt {text-align:center;}
+.nm {margin:0 0 0 1em;}
+span {text-align:right;}
+h5 {margin-bottom:0; color:yellow;}
+.grey {color:lightgrey; margin:0 0; font-size:75%;}
+.a-propos {font-size:82%; border: 2px solid black; padding: 1em 1em; margin-top: 1em;}
+.covid {color:yellow; font-weight:bold; font-style:italic;} 
+
+@keyframes fade {
+ 0.00% { opacity: 0; }
+ 9.375% { opacity: 1; }
+ 4.6875% { opacity: 1; }
+ 12.50% { opacity: 1; }
+ 17.3125% { opacity: 0; }
+ 100% { opacity: 0; }
+}
+/* .fadein { position:relative; height:280px; width:430px; outline: 1px solid blue; } */
+.fadein { position:relative; height:100%; width:100%; outline:1px solid blue; margin-bottom:70%;}
+.fadein img {
+  position:absolute; left:0; right:0; opacity:0;
+  animation-name:fade; animation-duration:40s; animation-iteration-count:infinite; }
+.fadein img:nth-child(1) { animation-delay: 0s;  }
+.fadein img:nth-child(2) { animation-delay: 5s;  }
+.fadein img:nth-child(3) { animation-delay:10s;  }
+.fadein img:nth-child(4) { animation-delay:15s;  }
+.fadein img:nth-child(5) { animation-delay:20s;  }
+.fadein img:nth-child(6) { animation-delay:25s;  }
+.fadein img:nth-child(7) { animation-delay:30s;  }
+.fadein img:nth-child(8) { animation-delay:35s;  }

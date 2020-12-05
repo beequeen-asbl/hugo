@@ -1,0 +1,63 @@
+body {font-family:'Verdana',sans-serif; margin:0 25px; max-width:100%;}
+a {color:#2a99b6;}
+a:hover {color:#33bbdf;}
+header, footer, div.page {padding:1em 2em 0.2em 2em;}
+header h1 {background-repeat:no-repeat; background-position: top center;}
+header h1 {color:#169bbd; margin:0; font-weight:normal; margin:0; font-size:42px;}
+header h3 b {color:red;}
+header .block-group {margin: 0 1em 1em 1em; }
+main {margin-top: 0;}
+nav a { color:#000000;}
+nav li { display:inline; margin-right:1em; }
+nav li a { text-decoration:none; border-top:1px solid #55aeb9; }
+nav li a:hover,nav li.active a { color:#55aeb9; border-top:3px solid #55aeb9; }
+span {display:block; clear:both; font-size:0.8em; margin-left:10px;}
+footer {background:#b4e1e7; clear:both; margin-top:2em; height:100px;}
+footer span {text-align:right; font-size:0.7em;}
+img {border:0;}
+.rule {display:table; clear:both;}
+.rule>div {display:table-cell; white-space:nowrap;}
+.line {padding:0;}
+.line>div {border-bottom:1px dashed silver; height:1px;}
+.words {padding:0 15px; color:#999999; text-align:center;}
+.line {width:50%; vertical-align: middle;}
+.red {color:red;}
+.contact {width:500px; margin:auto;}
+.cntr {text-align:center;}
+.block-group {margin:-2px -6px;}
+@media (max-width:767px) {
+ .block {padding:2px 16px;}
+ .nav,.rule {margin:0 16px;} 
+}
+.centre { width:90%; margin:auto; }
+@media (min-width:768px) {
+ .gauche, .droite {width:50%;}
+ .gauche_etroit {width:24%;}
+ .droite_large {width:76%;}
+ .sc {width:30%;}
+ .lc {width:65%;}
+ .block {padding:2px 32px;}
+ .nav,.rule {margin:0 32px;}
+ .centre { width:70%;}
+}
+@media (min-width:960px) {
+ .gauche, .droite {width:50%;}
+ .gauche_etroit {width:24%;}
+ .droite_large {witdth:76%;}
+ .sc {width:30%;}
+ .lc {width:70%;}
+ .block {padding:2px 50px;}
+ .nav,.rule {margin:0 50px;} 
+ .centre { width:50%;}
+}
+
+/*
+.centre { width:50%; margin:auto; }
+@media (min-width:768px) {
+  .centre { width:95%; margin:auto; }
+}
+@media (min-width:960px) {
+ .centre { width:70%; margin:auto; }
+}
+*/
+.centre blockquote { background:#008080; color:white; padding:1em; margin:0 0 3em 0; }
