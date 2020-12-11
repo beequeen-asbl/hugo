@@ -45,19 +45,6 @@ La mission de l’asbl BeeQueen est de fédérer au sein d’un réseau régiona
 </table>
 </div>
 <div class="block droite">
-<div class="webi">
-<h3 class="cntr">Webinaire frelon asiatique:</h3>
-<div class="cnt">
-<p>Le Dr. Ir. <em>Louis Hauthier</em>
-du CRA-W (Centre wallon de Recherches agronomiques)
-annonce une soirée consacrée au <strong>frelon asiatique</strong>
-le jeudi 10 décembre 2020 à 20h
-sous forme d'un <strong>webinaire</strong></p>
-<p><em>Inscription obligatoire<br>pour le 7 décembre au plus tard</em>
-<p>Plus de renseignements sur:<br>
-<a href="https://www.cra.wallonie.be/fr/webinaire-frelon-asiatique">https://www.cra.wallonie.be/fr/webinaire-frelon-asiatique</a></p>
-</div>
-</div>
 <br>
 <div class="conf">
 <h3 class="cntr">Prochaines conférences:</h3>
@@ -99,6 +86,8 @@ Le but est d’initier les amateurs à la conduite de colonies d’abeilles mell
   
 <div class="a-propos">
 <h3> A propos...</h3>
+
+- L’asbl <strong>Arista Bee Research Belgium</strong> souhaite vous inviter à des <a href="https://butine.info/wp-content/uploads/2020/11/Offre-de-formation-et-de-conferences-par-Arista-Bee-Research-Belgium-fin....pdf">formations et conférences</a> sur divers sujets en rapport avec la sélection d’<strong>abeilles résistantes</strong>.
 
 - Frelon asiatique, quelques <a href="/agenda/conferences-passees/lhautier/#liens">liens</a> internet.<a title="muséum de Toulouse [CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Vespa_velutina_nigrithorax_MHNT.jpg"><img alt="Vespa velutina nigrithorax MHNT" src="/static/img/Vespa_velutina_nigrithorax_MHNT_dos.jpg"></a>
   
