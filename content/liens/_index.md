@@ -15,6 +15,7 @@ Son objectif est la promotion et le développement de l'apiculture au travers de
 [butine.info](https://butine.info)  
 [Les abeilles font le buzz](https://www.scoop.it/t/les-abeilles-font-le-buzz)  
 [Guide des bonnes pratiques apicoles](http://www.cari.be/medias/autres_publications/gdbp-franc_br.pdf)  
+[Guide - Implantation raisonnée des ruchers en Wallonie](https://ediwall.wallonie.be/guide-implantation-raisonnee-des-ruchers-en-wallonie-numerique-080269)  
 
 ### - Le CRA-W ###
 #### Centre wallon de Recherches agronomiques  ####
