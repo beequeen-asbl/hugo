@@ -13,7 +13,6 @@ Tout le monde est le bienvenu, que vous soyez apiculteur ou non, que vous soyez 
 Son objectif est la promotion et le développement de l'apiculture au travers de l'information et de recherches appliquées.  
 [www.cari.be](http://www.cari.be)  
 [butine.info](https://butine.info)  
-[Les abeilles font le buzz](https://www.scoop.it/t/les-abeilles-font-le-buzz)  
 [Guide des bonnes pratiques apicoles](http://www.cari.be/medias/autres_publications/gdbp-franc_br.pdf)  
 
 ### - le SPW ###
