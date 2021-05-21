@@ -3,7 +3,14 @@ title: Rucher école
 description: Rucher école
 layout: main
 ---
+  
+<p class="drt">
+ <a href="https://beequeen.be/rucher.ecole/eleves"> Notes de cours </a> |  
+ <a href="https://beequeen.be/rucher.ecole/org/db/"> Zone réservée </a>
+</p>  
 
+![cours_page_1](/static/img/BEE-2019-2c-1_63pct.jpg)  
+![cours_page_2](/static/img/BEE-2019-2c-2_63pct.jpg)  
 
 <i>
 Nous ne commençons une nouvelle session de formation que lorsque la session en cours est terminée, soit tout les deux ans.<br> 
@@ -19,14 +26,7 @@ La prochaine session devrait donc avoir lieu de septembre 2022 à août 2024.<br
 Patience donc et d'avance nous vous remercions pour votre compréhension.<br>
 
 Vous pouvez laisser votre email [ici](candidats) si vous désirez être recontacté avant cette prochaine session de cours.<br>
-
 </i>
-  
-<p class="drt"><a href="https://beequeen.be/rucher.ecole/eleves">Notes de cours</a></p>  
-<p class="drt"><a href="https://beequeen.be/rucher.ecole/org/db/">Zone réservée</a></p>  
-
-![cours_page_1](/static/img/BEE-2019-2c-1_63pct.jpg)  
-![cours_page_2](/static/img/BEE-2019-2c-2_63pct.jpg)  
 
 <div>  
 <h4>Visite de ruches le dimanche 28 juin 2020 lors du cours de base</h4>
