@@ -6,15 +6,19 @@ layout: main
 
 
 <i>
-
-La session de cours actuelle a commencé en septembre 2019 et se terminera en août 2021.<br>
-Nous remercions vivement toutes les personnes qui nous ont fait confiance pour assurer leur formation à l'apiculture.  
-Le cours est désormais **complet**, nous ne pouvons plus inscrire personne.<br>
-
 Nous ne commençons une nouvelle session de formation que lorsque la session en cours est terminée, soit tout les deux ans.<br> 
-La prochaine session devrait donc avoir lieu de septembre 2021 à août 2023.<br>
 
-Vous pouvez laisser votre email [ici](candidats) si vous désirez être recontacté avant la session de cours suivante.
+La session de cours actuelle a commencé en septembre 2019 et devait se terminer en août 2021.<br>
+Cependant, les restrictions sanitaires perturbent le déroulement imaginé de nos formations.<br>
+Soucieux de donner le bagage nécessaire, tant théorique que pratique, aux futurs apiculteurs en formation à l'heure actuelle, nous avons décidé de prolonger leur cycle jusqu'au printemps 2022.<br>
+
+La qualité de nos apprentissages est le seul motif de cette réorganisation, c'est la raison pour laquelle nous avons sereinement pris cette décision.<br>
+
+La prochaine session devrait donc avoir lieu de septembre 2022 à août 2024.<br>
+
+Patience donc et d'avance nous vous remercions pour votre compréhension.<br>
+
+Vous pouvez laisser votre email [ici](candidats) si vous désirez être recontacté avant cette prochaine session de cours.<br>
 
 </i>
   

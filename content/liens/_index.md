@@ -11,18 +11,20 @@ description: Liens utiles
 #### Centre Apicole de Recherche et d'Information ####
 Tout le monde est le bienvenu, que vous soyez apiculteur ou non, que vous soyez membre d'autres sections  
 Son objectif est la promotion et le développement de l'apiculture au travers de l'information et de recherches appliquées.  
-[www.cari.be](http://www.cari.be)  
+[www.cari.be](https://www.cari.be)  
 [butine.info](https://butine.info)  
-[Guide des bonnes pratiques apicoles](http://www.cari.be/medias/autres_publications/gdbp-franc_br.pdf)  
-
-### - le SPW ###
-#### Les Editions du Service public de Wallonie ####
-[Guide - Implantation raisonnée des ruchers en Wallonie](https://ediwall.wallonie.be/guide-implantation-raisonnee-des-ruchers-en-wallonie-numerique-080269)  
+[Bee Wallonie](https://www.beewallonie.be)  
+[Buzz2beez](https://www.youtube.com/channel/UCyvJ18KdfQreFLj9UJCFd1Q/videos)  
+[Guide des bonnes pratiques apicoles](https://www.cari.be/medias/autres_publications/gdbp-franc_br.pdf)  
 
 ### - Le CRA-W ###
 #### Centre wallon de Recherches agronomiques  ####
 [CRA-W](https://www.cra.wallonie.be/fr/)
 S'occupe entre-autres du suivi de l'invasion du Frelon asiatique en Wallonie
+
+### - le SPW ###
+#### Les Editions du Service public de Wallonie ####
+[Guide - Implantation raisonnée des ruchers en Wallonie](https://ediwall.wallonie.be/guide-implantation-raisonnee-des-ruchers-en-wallonie-numerique-080269)  
 
 ### - La FRPLA ###
 #### Fédération Royale Provinciale Liégeoise d’Apiculture ####
@@ -38,9 +40,9 @@ Son objectif principal est le soutien de ses membres (Services, achats groupés,
 #### Agence Fédérale pour la Sécurité de la Chaîne Alimentaire ####
 [www.afsca.be](http://www.afsca.be/apiculture)  
 [Formulaire d'enregistrement](http://www.afsca.be/agrements/modeleduformulairededemande.asp)  
-[Avis de lutte contre la varroase en 2020](http://www.favv-afsca.fgov.be/apiculture/santeanimale/#varroase)
+[Avis de lutte contre la varroase en 2021](http://www.favv-afsca.fgov.be/apiculture/santeanimale/#varroase)  
 [Approvisionnement correct des médicaments contre le varroa](http://www.favv-afsca.be/apiculture/santeanimale/_documents/2014-11-18_CommuniqueAFSCA-AFMPS_correct_medicaments_varroa_FR.pdf)    
-[Utilisation des rayons de cire achetés et vente du miel](http://pdf.beequeen.be/liens/cire.pdf)
+[Utilisation des rayons de cire achetés et vente du miel](http://pdf.beequeen.be/liens/cire.pdf)  
 
 </div>
 <div class="block droite">
