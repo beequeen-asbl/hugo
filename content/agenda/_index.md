@@ -7,38 +7,28 @@ description: Agenda
 <div class="blck-group">
 <div class="block gauche">
 
-<!-- <h2>Prochaines conférences:</h2> -->
+<h2>Prochaines conférences:</h2>
 <div>
-<blockquote>
-<p><strong>Compte tenu de l'évolution de l'épidémie, les conférences 2020 sont annulées, la commune de Theux n'autorisant pas, en cette période, ce genre d'activités.</strong></p>
-</blockquote>
 
-<!--
 
-> Le **dimanche 8 novembre**:  
+> Le **dimanche 10 octobre 2021**:  
 >  
-> *Débriefing sur l’année apicole écoulée.*  
+> *Débriefing*  
 >  
-> inscription obligatoire par mail à [secrétariat@beequeen.be](mailto:secretariat@beequeen.be)  
-> avec retour de l’acceptation (nombre limité à 21)  
-> Entrée gratuite. 
- 
-> Le **dimanche 22 novembre**:  
+
+> Le **dimanche 21 novembre 2021**:  
 >  
-> *ABC sur les habitants de la ruche  
-> pour les personnes (adultes et enfants) curieuses  
-> d’en savoir un peu plus sur la vie dans nos abeilles*  
->
-> par **Norbert Gazon**,  
-> 
-> inscription obligatoire par mail à [secrétariat@beequeen.be](mailto:secretariat@beequeen.be)  
-> avec retour de l’acceptation (nombre limité à 15)  
-> Entrée gratuite. 
+> *L’abeille noire*  
+>  
+> par **Benoit Dupret**  
 
-> Les **dimanches 07 février 2021** et **07 mars 2021** sont les deux prochaines dates de nos conférences, prenez-en déjà bonne note.  
-> Les thèmes vous seront confirmés dès que possible.  
+> Le **dimanche 30 janvier 2022**:  
+>  
+> *Comment gérer les cellules royales!*  
+>  
+> par **Georges Dejalle**  
+>  
 
--->
 </div>
 
 </div>

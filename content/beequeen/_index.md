@@ -69,4 +69,3 @@ Nos valeurs fondamentales sont:
 * Jean-Cédric Jacmart, apiculteur à Haute-Desnié (Theux)
 
 <h3>Les statuts de BeeQueen<a href="https://pdf.beequeen.be/beequeen/beequeen_statuts.pdf"><img src="/static/img/pdf.jpg"></a></h3>
-

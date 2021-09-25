@@ -33,30 +33,26 @@ La mission de l’asbl BeeQueen est de fédérer au sein d’un réseau régiona
 </table>
 </div>
 <div class="block droite">
-<br>
-<div class="conf">
 <h3 class="cntr">Prochaines conférences:</h3>
-<div class="cnt">
-<p class=covid>Compte tenu de l'évolution de l'épidémie, <u>les conférences 2020 sont annulées</u>, la commune de Theux n'autorisant pas, en cette période, ce genre d'activités.</p>
-</div>
-</div>
-<br>
-<!--
-L’équipe de Beequeen a décidé de reprendre le cycle des conférences pour la saison 2020-2021, adaptées ce jour au Covid 19, mais qui s’adapteront en fonction des règles sanitaires qui peuvent elles aussi évoluer. 
-
 <div class="conf">
-<h3 class="cntr">Prochaines<br>conférences:</h3>
 <div class="cnt">
 
-Le **dimanche 8 novembre**:   
-*Débriefing sur l’année apicole écoulée.*    
- inscription obligatoire par mail à [secrétariat@beequeen.be](mailto:secretariat@beequeen.be) avec retour de l’acceptation (nombre limité à 21) Entrée gratuite.   
+Le *dimanche 10 octobre 2021*:  
+**Débriefing**   
+
+Le *dimanche 21 novembre 2021*:  
+**L'abeille noire**  
+par Benoit Dupret  
+
+Le *dimanche 30 janvier 2022*:  
+**Comment gérer les cellules royales!**  
+par Georges Dejalle
 
 </div>
-<h5 class="drt"><a href="/agenda">Tous les détails ici ></a></h5>
-<h5 class="drt"><a href="/contact/mailing-list">Rester informé ></a></h5>
+<h5 class="drt"><a href="/agenda">Tous les détails ici</a></h5>
+<h5 class="drt"><a href="/contact/mailing-list">Rester informé</a></h5>
 <br>
--->
+</div>
 
 <h3>Formation en Apiculture</h3>
 Le but est d’initier les amateurs à la conduite de colonies d’abeilles mellifères et à la valorisation des produits de la ruche (miel, cire, propolis, …)  
@@ -78,8 +74,7 @@ Vous souhaitez contribuer à un environnement de qualité dans votre région ?<b
 <!--
 <div class="a-propos">
 <h3> A propos...</h3>
-- L’asbl <strong>Arista Bee Research Belgium</strong> souhaite vous inviter à des <a href="https://butine.info/wp-content/uploads/2020/11/Offre-de-formation-et-de-conferences-par-Arista-Bee-Research-Belgium-fin....pdf">formations et conférences</a> sur divers sujets en rapport avec la sélection d’<strong>abeilles résistantes</strong>.
-- Frelon asiatique, quelques <a href="/agenda/conferences-passees/lhautier/#liens">liens</a> internet.<a title="muséum de Toulouse [CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Vespa_velutina_nigrithorax_MHNT.jpg"><img alt="Vespa velutina nigrithorax MHNT" src="/static/img/Vespa_velutina_nigrithorax_MHNT_dos.jpg"></a>
+L’asbl <strong>Arista Bee Research Belgium</strong> souhaite vous inviter à des <a href="https://butine.info/wp-content/uploads/2020/11/Offre-de-formation-et-de-conferences-par-Arista-Bee-Research-Belgium-fin....pdf">formations et conférences</a> sur divers sujets en rapport avec la sélection d’<strong>abeilles résistantes</strong>.
 -->
 </div>
 </div>
