@@ -37,9 +37,6 @@ La mission de l’asbl BeeQueen est de fédérer au sein d’un réseau régiona
 <div class="conf">
 <div class="cnt">
 
-Le *dimanche 10 octobre 2021*:  
-**Débriefing**   
-
 Le *dimanche 21 novembre 2021*:  
 **L'abeille noire**  
 par Benoit Dupret  

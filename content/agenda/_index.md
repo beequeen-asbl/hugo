@@ -10,12 +10,6 @@ description: Agenda
 <h2>Prochaines conférences:</h2>
 <div>
 
-
-> Le **dimanche 10 octobre 2021**:  
->  
-> *Débriefing*  
->  
-
 > Le **dimanche 21 novembre 2021**:  
 >  
 > *L’abeille noire*  
