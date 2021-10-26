@@ -50,7 +50,7 @@ Ferme pédagogique de Fancheumont,
 3 € (membres) et 6 € (non membres)  
   
 **Infos:**  
-secretariat@beequeen.be  
+Courriel: secretariat AT beequeen.be  
 GSM: 0476 33 58 48  
 087 37 69 54 (après 18h)  
 
