@@ -7,7 +7,7 @@ css: page_centree
 
 <!-- Begin MailChimp Signup Form -->
 <div id="mc_embed_signup">
- <form action="//beequeen.us12.list-manage.com/subscribe/post?u=7de077c5bf207b97983ba770d&amp;id=777c2a4441" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+ <form action="https://beequeen.us12.list-manage.com/subscribe/post?u=7de077c5bf207b97983ba770d&amp;id=777c2a4441" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
   <div id="mc_embed_signup_scroll">
     <h3>Vous pouvez vous inscrire ici pour recevoir un email annonçant nos conférences</h3>
     <div class="indicates-required"><span class="asterisk">*</span> Champ obligatoire</div>
@@ -32,7 +32,7 @@ css: page_centree
   </div>
  </form>
 </div>
-<script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script>
+<script type='text/javascript' src='https://s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script>
 <script type='text/javascript'>
 (function($){
    window.fnames = new Array();
