@@ -107,7 +107,7 @@ Nous consacrons à notre mission **des centaines d’heures par an de manière b
 
 6. **A acheter les pots de miel** à un prix équitable à l’apiculteur qui soignera votre colonie.
 
-*Si vous souhaitez être contacté et recevoir un contrat de parrainage, merci de nous envoyer un message à "secretariat AT beequeen.be"*
+**Si vous souhaitez être contacté et recevoir un contrat de parrainage**, merci de nous envoyer un message à "secre<!-- abc@def -->tariat@beeque<!-- @abc.com -->en.be"
 
 <h3>A lire dans la presse:</h3>
 <p class="ri10"><a href="la-meuse-verviers-12-03-2018"><i>"La Meuse" Verviers</i> 12/03/2018</a><br>

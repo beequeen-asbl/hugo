@@ -11,7 +11,7 @@ layout: main
 Siège social : rue Vert Buisson, 9<br />
 4910 Theux - Belgique<br />
 Tél : + 32 (0)87 37 69 54 (après 18h)<br />
-Courriel: secretariat AT beequeen.be</a></p>
+Courriel: secre<!-- abc@def -->tariat@beeque<!-- @abc.com -->en.be</a></p>
 </blockquote>
 </div>
 <div class="block droite">
@@ -30,7 +30,7 @@ annoncant chacune de nos conférences?</br>
 <blockquote>
 <h2 id="contact">Rucher école</h2>
 Pour tout ce qui concerne les formations, et notamment les demandes de renseignements, merçi d'envoyer un courriel à<br>
-"rucher.ecole AT beequeen.be"</a></p>
+"ruche<!-- def@def -->r.ecole@beeque<! @abc.com -->en.be"<br>
 <p>Adolf: 0474 75 09 94 (après 18h)<br>
 Jacques: 0476 33 58 48<br>
 </blockquote>

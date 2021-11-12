@@ -45,6 +45,10 @@ Le *dimanche 30 janvier 2022*:
 **Comment gérer les cellules royales!**  
 par Georges Dejalle
 
+Le *dimanche 13 mars 2022*:  
+**Le miel, de l'extraction à la vente**  
+par Alexandre Bernier
+
 </div>
 <h5 class="drt"><a href="/agenda">Tous les détails ici</a></h5>
 <h5 class="drt"><a href="/contact/mailing-list">Rester informé</a></h5>

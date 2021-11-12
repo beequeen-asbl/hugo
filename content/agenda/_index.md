@@ -21,6 +21,12 @@ description: Agenda
 > *Comment gérer les cellules royales!*  
 >  
 > par **Georges Dejalle**  
+
+> Le **dimanche 13 mars 2022**:  
+>  
+> *Le miel, de l'extraction à la vente*  
+>  
+> par **Alexandre Bernier**  
 >  
 
 </div>
@@ -50,7 +56,7 @@ Ferme pédagogique de Fancheumont,
 3 € (membres) et 6 € (non membres)  
   
 **Infos:**  
-Courriel: secretariat AT beequeen.be  
+Courriel: secre<!-- abc@def -->tariat@beeque<!-- @abc.com -->en.be  
 GSM: 0476 33 58 48  
 087 37 69 54 (après 18h)  
 
