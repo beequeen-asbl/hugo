@@ -10,12 +10,6 @@ description: Agenda
 <h2>Prochaines conférences:</h2>
 <div>
 
-> Le **dimanche 21 novembre 2021**:  
->  
-> *L’abeille noire*  
->  
-> par **Benoit Dupret**  
-
 > Le **dimanche 30 janvier 2022**:  
 >  
 > *Comment gérer les cellules royales!*  
