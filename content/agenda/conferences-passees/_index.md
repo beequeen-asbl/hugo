@@ -24,8 +24,15 @@ layout: main
 </tr>
 <tr>
 <td></td>
-<td>21.11.2021</td>
-<td>Benoît Dupret</td>
+<td>30.01.2022</td>
+<td>Georges DEJALLE</td>
+<td>Comment gérer les cellules royales</td>
+<td align="center"><a href="/agenda/conferences-passees/gdejalle3"><img src="/static/img/pdf.jpg" alt=""></a></td>
+</tr>
+<tr>
+<td></td>
+<td>21.11.2021</t²>
+<td>Benoît DUPRET</td>
 <td>L'abeille noire</td>
 <td align="center"></td>
 </tr>

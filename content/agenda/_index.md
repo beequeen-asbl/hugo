@@ -7,14 +7,8 @@ description: Agenda
 <div class="blck-group">
 <div class="block gauche">
 
-<h2>Prochaines conférences:</h2>
+<h2>Prochaine conférence:</h2>
 <div>
-
-> Le **dimanche 30 janvier 2022**:  
->  
-> *Comment gérer les cellules royales!*  
->  
-> par **Georges Dejalle**  
 
 > Le **dimanche 13 mars 2022**:  
 >  

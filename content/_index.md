@@ -33,13 +33,9 @@ La mission de l’asbl BeeQueen est de fédérer au sein d’un réseau régiona
 </table>
 </div>
 <div class="block droite">
-<h3 class="cntr">Prochaines conférences:</h3>
+<h3 class="cntr">Prochaine conférence:</h3>
 <div class="conf">
 <div class="cnt">
-
-Le *dimanche 30 janvier 2022*:  
-**Comment gérer les cellules royales!**  
-par Georges Dejalle
 
 Le *dimanche 13 mars 2022*:  
 **Le miel, de l'extraction à la vente**  

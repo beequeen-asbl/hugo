@@ -4,9 +4,9 @@ MD = $(shell find content -name '*.md')
 TMP = $(MD:content%=docs%)
 TMP2 = $(TMP:.md=.html)
 HTML = $(shell echo $(TMP2) | sed 's/_index/index/g')
-PDFurl = $(shell gawk '$$3~/localhost/' config.toml)
-PDFpid = $(shell ps -ef | gawk '/http.server/ && !/grep/ {print $$2}')
-HUGOpid = $(shell ps -ef | gawk '/hugo server/ && !/grep/ {print $$2}')
+PDFurl = $(shell awk '$$3~/localhost/' config.toml)
+PDFpid = $(shell ps -ef | awk '/http.server/ && !/grep/ {print $$2}')
+HUGOpid = $(shell ps -ef | awk '/hugo server/ && !/grep/ {print $$2}')
 HDIR=${HOME}/BQ/github/
 BU_DIR = /mnt/DATA/BeeQueen/BACKUPS/hugo
 
