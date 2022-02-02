@@ -9,8 +9,12 @@ layout: main
  <a href="https://beequeen.be/rucher.ecole/org/db/"> Zone réservée </a>
 </p>  
 
-![cours_page_1](/static/img/BEE-2019-2c-1_63pct.jpg)  
-![cours_page_2](/static/img/BEE-2019-2c-2_63pct.jpg)  
+![cours_page_1a](/static/img/cours_1a.jpg)
+![cours_page_1b](/static/img/cours_1b.jpg)
+![cours_page_1c](/static/img/cours_1c.jpg)
+![cours_page_2a](/static/img/cours_2a.jpg)
+![cours_page_2b](/static/img/cours_2b.jpg)
+![cours_page_2c](/static/img/cours_2c.jpg)
 
 <i>
 Nous ne commençons une nouvelle session de formation que lorsque la session en cours est terminée, soit tout les deux ans.<br> 

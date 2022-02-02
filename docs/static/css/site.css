@@ -3,7 +3,7 @@ a {color:#2a99b6;}
 a:hover {color:#33bbdf;}
 header, footer, div.page {padding:1em 2em 0.2em 2em;}
 header h1 {background-repeat:no-repeat; background-position: top center;}
-header h1 {color:#169bbd; margin:0; font-weight:normal; margin:0; font-size:42px;}
+header h1 {color:#169bbd; font-weight:normal; margin:0; font-size:24px;} /*42px*/
 header h3 b {color:red;}
 header .block-group {margin: 0 1em 1em 1em; }
 main {margin-top: 0;}
@@ -34,8 +34,8 @@ img {border:0;}
  .gauche, .droite {width:50%;}
  .gauche_etroit {width:24%;}
  .droite_large {width:76%;}
- .sc {width:30%;}
- .lc {width:65%;}
+ .sc {width:20%;}
+ .lc {width:80%;}
  .block {padding:2px 32px;}
  .nav,.rule {margin:0 32px;}
  .centre { width:70%;}
@@ -44,8 +44,8 @@ img {border:0;}
  .gauche, .droite {width:50%;}
  .gauche_etroit {width:24%;}
  .droite_large {witdth:76%;}
- .sc {width:30%;}
- .lc {width:70%;}
+ .sc {width:20%;}
+ .lc {width:80%;}
  .block {padding:2px 50px;}
  .nav,.rule {margin:0 50px;} 
  .centre { width:50%;}
