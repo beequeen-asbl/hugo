@@ -24,6 +24,13 @@ layout: main
 </tr>
 <tr>
 <td></td>
+<td align="center"></td>
+<td>13.03.2022</td>
+<td>Alexandre BERNIER</td>
+<td>Le miel, de l'extraction à la vente</td>
+</tr>
+<tr>
+<td></td>
 <td align="center"><a href="/agenda/conferences-passees/gdejalle3"><img src="/static/img/pdf.jpg" alt=""></a></td>
 <td>30.01.2022</td>
 <td>Georges DEJALLE</td>

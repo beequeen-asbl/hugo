@@ -7,16 +7,19 @@ description: Agenda
 <div class="blck-group">
 <div class="block gauche">
 
-<h2>Prochaine conférence:</h2>
+<h2>Prochaines conférences:</h2>
 <div>
 
+> **En septembre 2022**
+
+<!--
 > Le **dimanche 13 mars 2022**:  
 >  
 > *Le miel, de l'extraction à la vente*  
 >  
 > par **Alexandre Bernier**  
 >  
-
+-->
 </div>
 
 </div>
