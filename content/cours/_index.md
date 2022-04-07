@@ -9,6 +9,8 @@ layout: main
  <a href="https://beequeen.be/rucher.ecole/org/db/"> Zone réservée </a>
 </p>  
 
+<p class="info">La prochaine session commencera le 18 septembre 2022, pour se terminer en août 2024.</p><br>
+
 ![cours_page_1a](/static/img/cours_1a.jpg)
 ![cours_page_1b](/static/img/cours_1b.jpg)
 ![cours_page_1c](/static/img/cours_1c.jpg)
@@ -25,12 +27,12 @@ Soucieux de donner le bagage nécessaire, tant théorique que pratique, aux futu
 
 La qualité de nos apprentissages est le seul motif de cette réorganisation, c'est la raison pour laquelle nous avons sereinement pris cette décision.<br>
 
-La prochaine session devrait donc avoir lieu de septembre 2022 à août 2024.<br>
-
 Patience donc et d'avance nous vous remercions pour votre compréhension.<br>
 
-Vous pouvez laisser votre email [ici](candidats) si vous désirez être recontacté avant cette prochaine session de cours.<br>
+Vous pouvez laisser votre email [dans ce formulaire](candidats) si vous désirez être recontacté à l'ouverture des inscriptions pour cette prochaine session de cours.<br>
 </i>
+
+<hr>
 
 <div>  
 <h4>Visite de ruches le dimanche 28 juin 2020 lors du cours de base</h4>
