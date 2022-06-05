@@ -1,3 +1,15 @@
 .info {font-size:120%;text-align:center; margin-left:auto; margin-right:auto; width:80%; clear:both;}
-.folder {margin-left:auto; margin-right:auto; width:90%; clear:both;}
+.folder {text-align:center; margin-left:auto; margin-right:auto; max-width:870px; clear:both;}
+media (min-width:900px) {
+  /* .folder {text-align:center; margin-left:auto; margin-right:auto; width:870px; clear:both;} */
+  .folder {width:870px;}
+}
+media (min-width:600px) {
+  /* .folder {text-align:center; margin-left:auto; margin-right:auto; width:580px; clear:both;} */
+  .folder {width:580px;}
+}
+media (min-width:400px) {
+  /* .folder {text-align:center; margin-left:auto; margin-right:auto; width:350px; clear:both;} */
+  .folder {width:350px;}
+}
 .drt {text-align:right; margin-right:5em;}

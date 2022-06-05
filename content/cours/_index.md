@@ -17,14 +17,14 @@ Les personnes intéressées peuvent s'inscrire dès à présent (voir ci-dessous
 </div>
 <div class="folder">
 
-![cours_page_1a](/static/img/BEE-2022-Slides-2.jpg)
-![cours_page_1b](/static/img/BEE-2022-Slides-5.jpg)
-![cours_page_1c](/static/img/BEE-2022-Slides-0.jpg)
+![cours_page_1a](/static/img/BEE-2022-Slides-0.jpg)
+![cours_page_1b](/static/img/BEE-2022-Slides-2.jpg)
+![cours_page_1c](/static/img/BEE-2022-Slides-5.jpg)
 ![cours_page_2a](/static/img/BEE-2022-Slides-1.jpg)
 ![cours_page_2b](/static/img/BEE-2022-Slides-3.jpg)
 ![cours_page_2c](/static/img/BEE-2022-Slides-4.jpg)
 
-</div>
+<!-- 2 5 0 1 3 4 -->
 <br>
 <hr>
 <div>  
@@ -40,5 +40,6 @@ Les personnes intéressées peuvent s'inscrire dès à présent (voir ci-dessous
 <img src="/static/img/31.jpg"> 
 <img src="/static/img/14.jpg"> 
 <img src="/static/img/19.jpg"> 
+</div>
 </div>
 
