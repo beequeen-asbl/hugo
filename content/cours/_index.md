@@ -9,31 +9,24 @@ layout: main
  <a href="https://beequeen.be/rucher.ecole/org/db/"> Zone réservée </a>
 </p>  
 
-<p class="info">La prochaine session commencera le 18 septembre 2022, pour se terminer en août 2024.</p><br>
+<div class="info">
 
-![cours_page_1a](/static/img/cours_1a.jpg)
-![cours_page_1b](/static/img/cours_1b.jpg)
-![cours_page_1c](/static/img/cours_1c.jpg)
-![cours_page_2a](/static/img/cours_2a.jpg)
-![cours_page_2b](/static/img/cours_2b.jpg)
-![cours_page_2c](/static/img/cours_2c.jpg)
+La prochaine session de cours commencera le 18 septembre 2022,  
+pour se terminer en août 2024.  
+Les personnes intéressées peuvent s'inscrire dès à présent (voir ci-dessous "Comment s'inscrire?").   
+</div>
+<div class="folder">
 
-<i>
-Nous ne commençons une nouvelle session de formation que lorsque la session en cours est terminée, soit tout les deux ans.<br> 
+![cours_page_1a](/static/img/BEE-2022-Slides-2.jpg)
+![cours_page_1b](/static/img/BEE-2022-Slides-5.jpg)
+![cours_page_1c](/static/img/BEE-2022-Slides-0.jpg)
+![cours_page_2a](/static/img/BEE-2022-Slides-1.jpg)
+![cours_page_2b](/static/img/BEE-2022-Slides-3.jpg)
+![cours_page_2c](/static/img/BEE-2022-Slides-4.jpg)
 
-La session de cours actuelle a commencé en septembre 2019 et devait se terminer en août 2021.<br>
-Cependant, les restrictions sanitaires perturbent le déroulement imaginé de nos formations.<br>
-Soucieux de donner le bagage nécessaire, tant théorique que pratique, aux futurs apiculteurs en formation à l'heure actuelle, nous avons décidé de prolonger leur cycle jusqu'au printemps 2022.<br>
-
-La qualité de nos apprentissages est le seul motif de cette réorganisation, c'est la raison pour laquelle nous avons sereinement pris cette décision.<br>
-
-Patience donc et d'avance nous vous remercions pour votre compréhension.<br>
-
-Vous pouvez laisser votre email [dans ce formulaire](candidats) si vous désirez être recontacté à l'ouverture des inscriptions pour cette prochaine session de cours.<br>
-</i>
-
+</div>
+<br>
 <hr>
-
 <div>  
 <h4>Visite de ruches le dimanche 28 juin 2020 lors du cours de base</h4>
 </div>
