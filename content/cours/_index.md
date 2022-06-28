@@ -24,6 +24,8 @@ Les personnes intéressées peuvent s'inscrire dès à présent (voir ci-dessous
 ![cours_page_2b](/static/img/BEE-2022-Slides-3.jpg)
 ![cours_page_2c](/static/img/BEE-2022-Slides-4.jpg)
 
+Le planning présumé de ces cours se trouve [ici](/static/pdf/planning-présumé.pdf)
+
 <!-- 2 5 0 1 3 4 -->
 <br>
 <hr>
