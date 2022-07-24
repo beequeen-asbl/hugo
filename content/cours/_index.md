@@ -17,12 +17,12 @@ Les personnes intéressées peuvent s'inscrire dès à présent (voir ci-dessous
 </div>
 <div class="folder">
 
-![cours_page_1a](/static/img/BEE-2022-Slides-0.jpg)
-![cours_page_1b](/static/img/BEE-2022-Slides-2.jpg)
-![cours_page_1c](/static/img/BEE-2022-Slides-5.jpg)
-![cours_page_2a](/static/img/BEE-2022-Slides-1.jpg)
-![cours_page_2b](/static/img/BEE-2022-Slides-3.jpg)
-![cours_page_2c](/static/img/BEE-2022-Slides-4.jpg)
+![cours_page_1a](/static/img/BEE-2022-Slides-V2-0.jpg)
+![cours_page_1b](/static/img/BEE-2022-Slides-V2-1.jpg)
+![cours_page_1c](/static/img/BEE-2022-Slides-V2-5.jpg)
+![cours_page_2a](/static/img/BEE-2022-Slides-V2-2.jpg)
+![cours_page_2b](/static/img/BEE-2022-Slides-V2-3.jpg)
+![cours_page_2c](/static/img/BEE-2022-Slides-V2-4.jpg)
 
 Le planning présumé de ces cours se trouve [ici](/static/pdf/planning-présumé.pdf)
 
