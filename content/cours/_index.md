@@ -13,7 +13,6 @@ layout: main
 
 La prochaine session de cours commencera le 18 septembre 2022,  
 pour se terminer en août 2024.  
-Les personnes intéressées peuvent s'inscrire dès à présent (voir ci-dessous "Comment s'inscrire?").   
 </div>
 <div class="folder">
 
@@ -24,7 +23,12 @@ Les personnes intéressées peuvent s'inscrire dès à présent (voir ci-dessous
 ![cours_page_2b](/static/img/BEE-2022-Slides-V2-3.jpg)
 ![cours_page_2c](/static/img/BEE-2022-Slides-V2-4.jpg)
 
-Le planning présumé de ces cours se trouve [ici](/static/pdf/planning-présumé.pdf)
+Le planning présumé de ces cours se trouve [ici](/static/pdf/planning-présumé.pdf)  
+
+**Afin de garantir une formation de qualité, le nombre d'élèves est linité**  
+<u>N.B.</u>: *Il ne reste plus que quelques places avant la clôture des inscriptions  
+ Seul le paiement des droits pour le cours d'initiation validera l'inscription.*  
+
 
 <!-- 2 5 0 1 3 4 -->
 <br>
