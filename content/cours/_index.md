@@ -5,7 +5,7 @@ layout: main
 ---
   
 <p class="drt">
- <a href="https://beequeen.be/rucher.ecole/eleves/2019-2022/"> Notes de cours </a> |  
+ <a href="https://beequeen.be/rucher.ecole/eleves/2022-2024/"> Notes de cours </a> |  
  <a href="https://beequeen.be/rucher.ecole/org/db/"> Zone réservée </a>
 </p>  
 
