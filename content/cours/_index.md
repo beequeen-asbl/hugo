@@ -26,7 +26,7 @@ pour se terminer en août 2024.
 Le planning présumé de ces cours se trouve [ici](/static/pdf/planning-présumé.pdf)  
 
 **Afin de garantir une formation de qualité, le nombre d'élèves est limité**  
-<u>N.B.</u>: *Il ne reste plus que quelques places avant la clôture des inscriptions*  
+<u>N.B.</u>: *Il ne reste plus qu'uns seule pkace disponible avant la clôture des inscriptions*  
  <u class="red">Seul le paiement des droits pour le cours d'initiation validera l'inscription.</u>  
 
 
