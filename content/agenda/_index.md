@@ -10,16 +10,22 @@ description: Agenda
 <h2>Prochaines conférences:</h2>
 <div>
 
-> **En septembre 2022**
+> Le **dimanche 25 septembre 2022**:  
+>  
+> *Débriefing de la saison 2022*  
 
-<!--
-> Le **dimanche 13 mars 2022**:  
+> Le **dimanche 23 octobre 2022**:  
 >  
-> *Le miel, de l'extraction à la vente*  
+> *La démocratie chez les abeilles, un modèle de société*  
 >  
-> par **Alexandre Bernier**  
+> par Bernard Liépin
+
+> Le **dimanche 20 novembre 2022**:  
 >  
--->
+> *Les faux-bourdons, spermatozoïdes ailés*  
+>  
+> par Didier Brick
+
 </div>
 
 </div>
