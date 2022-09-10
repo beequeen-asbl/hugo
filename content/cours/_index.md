@@ -10,12 +10,6 @@ layout: main
 </p>  
 
 <div class="info">
-
-La prochaine session de cours commencera le 18 septembre 2022,  
-pour se terminer en août 2024.  
-
-*Les inscriptions sont **clôturées**, il ne reste aucune place disponible!*  
-
 </div>
 <div class="folder">
 
@@ -28,6 +22,14 @@ pour se terminer en août 2024.
 
 <!-- 2 5 0 1 3 4 -->
 <!-- Le planning présumé de ces cours se trouve [ici](/static/pdf/planning-présumé.pdf) -->  
+
+La prochaine session de cours commencera le 18 septembre 2022,  
+pour se terminer en août 2024.  
+
+*Les inscriptions sont **clôturées**, il ne reste aucune place disponible!*  
+
+Si vous désirez être recontacté(e) avant la session de cours suivante (septembre 2024 -> aôut 2026),
+vous pouvez laisser vos coordonées <a href="https://www.beequeen.be/cours/candidats">ici</a>
 <br>
 <hr>
 <div>  
