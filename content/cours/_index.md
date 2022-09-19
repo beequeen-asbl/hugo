@@ -23,8 +23,8 @@ layout: main
 <!-- 2 5 0 1 3 4 -->
 <!-- Le planning présumé de ces cours se trouve [ici](/static/pdf/planning-présumé.pdf) -->  
 
-La prochaine session de cours commencera le 18 septembre 2022,  
-pour se terminer en août 2024.  
+La session de cours actuelle a commencé le 18 septembre 2022,  
+et se terminera en août 2024.  
 *Les inscriptions sont **clôturées**, il ne reste aucune place disponible!*  
 
 Si vous désirez être recontacté(e) avant la session de cours suivante (septembre 2024 -> août 2026),
