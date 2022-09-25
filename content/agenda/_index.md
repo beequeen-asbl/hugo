@@ -10,10 +10,6 @@ description: Agenda
 <h2>Prochaines conférences:</h2>
 <div>
 
-> Le **dimanche 25 septembre 2022**:  
->  
-> *Débriefing de la saison 2022*  
-
 > Le **dimanche 23 octobre 2022**:  
 >  
 > *La démocratie chez les abeilles, un modèle de société*  

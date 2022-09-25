@@ -37,9 +37,6 @@ La mission de l’asbl BeeQueen est de fédérer au sein d’un réseau régiona
 <div class="conf">
 <div class="cnt">
 
-> Le dimanche **25 septembre** 2022:  
-> *Débriefing de la saison 2022*  
-
 > Le dimanche **23 octobre** 2022:  
 > *La démocratie chez les abeilles,  
 > un modèle de société*  
