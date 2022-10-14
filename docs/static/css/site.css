@@ -11,6 +11,9 @@ nav a { color:#000000;}
 nav li { display:inline; margin-right:1em; }
 nav li a { text-decoration:none; border-top:1px solid #55aeb9; }
 nav li a:hover,nav li.active a { color:#55aeb9; border-top:3px solid #55aeb9; }
+.dropdown {position:relative; display:inline-block;}
+.dropdown-content {display:none; position:absolute; margin:0 -2em; z-index: 1;}
+.dropdown:hover .dropdown-content {display: block;}
 span {display:block; clear:both; font-size:0.8em; margin-left:10px;}
 footer {background:#b4e1e7; clear:both; margin-top:2em; height:100px;}
 footer span {text-align:right; font-size:0.7em;}
