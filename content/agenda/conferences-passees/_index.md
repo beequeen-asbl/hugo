@@ -25,6 +25,13 @@ layout: main
 <tr>
 <td></td>
 <td align="center"></td>
+<td>23.10.2022</td>
+<td>Bernard LIEPIN</td>
+<td>La démocratie chez les abeilles, un modèle de société</td>
+</tr>
+<tr>
+<td></td>
+<td align="center"></td>
 <td>25.09.2022</td>
 <td>Membres BeeQueen</td>
 <td>Débriefing de la saison 2022.</td>

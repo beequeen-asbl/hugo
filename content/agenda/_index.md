@@ -10,12 +10,6 @@ description: Agenda
 <h2>Prochaines conférences:</h2>
 <div>
 
-> Le **dimanche 23 octobre 2022**:  
->  
-> *La démocratie chez les abeilles, un modèle de société*  
->  
-> par Bernard Liépin
-
 > Le **dimanche 20 novembre 2022**:  
 >  
 > *Les faux-bourdons, spermatozoïdes ailés*  
