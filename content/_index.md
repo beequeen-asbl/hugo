@@ -41,6 +41,11 @@ La mission de l’asbl BeeQueen est de fédérer au sein d’un réseau régiona
 > *Les faux-bourdons, spermatozoïdes ailés*  
 > par Didier Brick
 
+> Le dimanche **19 février** 2023:  
+> *Projet Wallon de sélection d’abeilles résistantes à varroa*  
+> par Julien Duwez  
+> (Arista Bee Research Belgium)    
+
 </div>
 <h5 class="drt"><a href="/agenda">Tous les détails ici</a></h5>
 <h5 class="drt"><a href="/contact/mailing-list">Rester informé</a></h5>

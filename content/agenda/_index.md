@@ -16,6 +16,13 @@ description: Agenda
 >  
 > par Didier Brick
 
+> Le **dimanche 19 février 2023**:  
+>  
+> *Projet Wallon de sélection d’abeilles résistantes à varroa*  
+>  
+> par Julien Duwez  
+> (Arista Bee Research Belgium)  
+
 </div>
 
 </div>
