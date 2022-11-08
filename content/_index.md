@@ -46,6 +46,10 @@ La mission de l’asbl BeeQueen est de fédérer au sein d’un réseau régiona
 > par Julien Duwez  
 > (Arista Bee Research Belgium)    
 
+> Le dimanche **26 mars** 2023:  
+> *Au trou de vol*  
+> par Renaud Delfosse
+
 </div>
 <h5 class="drt"><a href="/agenda">Tous les détails ici</a></h5>
 <h5 class="drt"><a href="/contact/mailing-list">Rester informé</a></h5>

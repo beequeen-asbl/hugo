@@ -26,6 +26,13 @@ description: Agenda
 > par Julien Duwez  
 > (Arista Bee Research Belgium)  
 
+> Le dimanche **26 mars** 2023:  
+>  
+> *Au trou de vol*  
+>  
+> par Renaud Delfosse
+
+
 </div>
 
 </div>
