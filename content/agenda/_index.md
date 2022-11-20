@@ -10,12 +10,6 @@ description: Agenda
 <h2>Prochaines conférences:</h2>
 <div>
 
-> Le **dimanche 20 novembre 2022**:  
->  
-> *Les faux-bourdons, spermatozoïdes ailés*  
->  
-> par Didier Brick
-
 > Le **dimanche 19 février 2023**:  
 >  
 > *Projet Wallon de sélection d’abeilles résistantes à varroa*  

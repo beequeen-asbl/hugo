@@ -37,10 +37,6 @@ La mission de l’asbl BeeQueen est de fédérer au sein d’un réseau régiona
 <div class="conf">
 <div class="cnt">
 
-> Le dimanche **20 novembre** 2022:  
-> *Les faux-bourdons, spermatozoïdes ailés*  
-> par Didier Brick
-
 > Le dimanche **19 février** 2023:  
 > *Projet Wallon de sélection d’abeilles résistantes à varroa*  
 > par Julien Duwez  

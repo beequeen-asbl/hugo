@@ -24,6 +24,13 @@ layout: main
 </tr>
 <tr>
 <td></td>
+<td align="center"><a href="/agenda/conferences-passees/dbrick2"><img src="/static/img/pdf.jpg" alt=""></a></td>
+<td>20.11.2022</td>
+<td>Didier BRICK</td>
+<td>Les faux-bourdons, spermatozoïdes ailés</td>
+</tr>
+<tr>
+<td></td>
 <td align="center"></td>
 <td>23.10.2022</td>
 <td>Bernard LIEPIN</td>
