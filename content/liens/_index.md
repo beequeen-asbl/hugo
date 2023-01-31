@@ -35,6 +35,7 @@ S'occupe entre-autres du suivi de l'invasion du Frelon asiatique en Wallonie
 [www.afsca.be](http://www.afsca.be/apiculture)  
 [Formulaire d'enregistrement](http://www.afsca.be/agrements/modeleduformulairededemande.asp)  
 [Avis de lutte contre la varroase](http://www.favv-afsca.fgov.be/apiculture/santeanimale/#varroase)  
+[Recommandations de lutte contre le varroa 2023](https://butine.info/wp-content/uploads/2023/01/recommandations-de-lutte-contre-le-varroa-2023-.docx)  
 [Approvisionnement correct des médicaments contre le varroa](http://www.favv-afsca.be/apiculture/santeanimale/_documents/2014-11-18_CommuniqueAFSCA-AFMPS_correct_medicaments_varroa_FR.pdf)    
 [Utilisation des rayons de cire achetés et vente du miel](http://pdf.beequeen.be/liens/cire.pdf)  
 
