@@ -22,6 +22,15 @@ layout: main
 <td></td>
 <td></td>
 </tr>
+
+<tr>
+<td></td>
+<td align="center"><a href="/agenda/conferences-passees/jduwez"><img src="/static/img/add.jpg" alt=""></a></td>
+<td>19.02.2023</td>
+<td>Julien DUWEZ</td>
+<td>Projet Wallon de sélection d’abeilles résistantes à varroa</td>
+</tr>
+
 <tr>
 <td></td>
 <td align="center"><a href="/agenda/conferences-passees/dbrick2"><img src="/static/img/pdf.jpg" alt=""></a></td>
@@ -29,6 +38,7 @@ layout: main
 <td>Didier BRICK</td>
 <td>Les faux-bourdons, spermatozoïdes ailés</td>
 </tr>
+
 <tr>
 <td></td>
 <td align="center"></td>

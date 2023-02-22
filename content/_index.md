@@ -33,14 +33,9 @@ La mission de l’asbl BeeQueen est de fédérer au sein d’un réseau régiona
 </table>
 </div>
 <div class="block droite">
-<h3 class="cntr">Prochaines conférences:</h3>
+<h3 class="cntr">Prochaine conférence:</h3>
 <div class="conf">
 <div class="cnt">
-
-> Le dimanche **19 février** 2023:  
-> *Projet Wallon de sélection d’abeilles résistantes à varroa*  
-> par Julien Duwez  
-> (Arista Bee Research Belgium)    
 
 > Le dimanche **26 mars** 2023:  
 > *Au trou de vol*  
