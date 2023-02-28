@@ -8,7 +8,7 @@ PDFurl = $(shell awk '$$3~/localhost/' config.toml)
 PDFpid = $(shell ps -ef | awk '/http.server/ && !/grep/ {print $$2}')
 HUGOpid = $(shell ps -ef | awk '/hugo server/ && !/grep/ {print $$2}')
 HDIR=${HOME}/BQ/github/
-BU_DIR = /mnt/DATA/BeeQueen/BACKUPS/hugo
+BU_DIR = /mnt/DATA/Apiculture/BeeQueen/BACKUPS/hugo
 
 help:
 	@echo "Usage:"
@@ -53,6 +53,10 @@ deploy:
 	git commit -m "màj $(DAT)"
 	git push
 	git archive --format=tar.gz -o $(BU_DIR)/BQ_$(TGT)_main_$(DAT).tar.gz main
+
+archive:
+	git archive --format=tar.gz -o $(BU_DIR)/BQ_$(TGT)_main_$(DAT).tar.gz main
+
 
 archive:
 	git archive --format=tar.gz -o $(BU_DIR)/BQ_$(TGT)_main_$(DAT).tar.gz main

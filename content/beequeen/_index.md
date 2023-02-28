@@ -46,7 +46,7 @@ Le contrôle de l’accouplement se fait par insémination artificielle ou par s
 <div class="block droite">
 
 ### Notre mission
-La mission de l’asbl BeeQueen est de fédérer au sein d’un réseau régional les apiculteurs et les personnes passionnées par la sauvegarde des abeilles et leur environnement. BeeQueen a pour ambition de développer des projets concrets, ouverts et propices à l‘épanouissement de la diversité apicole. Tout le monde est le bienvenu. Que vous soyez apiculteur ou non, que vous soyez membre de notre asbl ou d’autres sections apicoles, et quelque soit la race d’abeille que vous élevez. 
+La mission de l’asbl BeeQueen est de fédérer au sein d’un réseau régional les apiculteurs et les personnes passionnées par la sauvegarde des abeilles et leur environnement. BeeQueen a pour ambition de développer des projets concrets, ouverts et propices à l‘épanouissement de la diversité apicole. Tout le monde est le bienvenu. Que vous soyez apiculteur ou non, que vous soyez membre de notre asbl ou d’autres sections apicoles, et quelque soit la race d’abeille que vous éleve[z](https://beequeen.be/db). 
 
 ### L'origine de BeeQueen
 Au départ,  BeeQueen c’est une bande d’amis apiculteurs opérants principalement sur la commune de Theux. Ce sont pour la plupart des entrepreneurs actifs et de niveaux apicoles très différents. En commun, ils partagent la passion de l’abeille et de la nature. Qu’ils soient débutants, expérimentés, jeunes ou moins jeunes, toutes et tous ont ce désir d’œuvrer concrètement pour le futur de l’abeille et des générations futures. Leur besoin de progresser les incite à soutenir la recherche scientifique et leur envie de grandir les amène à rencontrer les apiculteurs curieux qui adhèrent à cette dynamique.
