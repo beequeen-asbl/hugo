@@ -25,6 +25,14 @@ layout: main
 
 <tr>
 <td></td>
+<td align="center"><a href="/agenda/conferences-passees/rdelfosse"><img src="/static/img/pdf.jpg" alt=""></a></td>
+<td>26.03.2023</td>
+<td>Renaud Delfosse</td>
+<td>Au trou de vol</td>
+</tr>
+
+<tr>
+<td></td>
 <td align="center"><a href="/agenda/conferences-passees/jduwez"><img src="/static/img/pdf.jpg" alt=""></a></td>
 <td>19.02.2023</td>
 <td>Julien DUWEZ</td>

@@ -8,6 +8,7 @@ description: Agenda
 <div class="block gauche">
 
 <h2>Prochaines conférences:</h2>
+<!--
 <div>
 
 > Le dimanche **26 mars** 2023:  
@@ -17,6 +18,7 @@ description: Agenda
 > par Renaud Delfosse
 
 </div>
+-->
 
 </div>
 <div class="block droite">

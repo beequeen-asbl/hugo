@@ -57,6 +57,3 @@ deploy:
 archive:
 	git archive --format=tar.gz -o $(BU_DIR)/BQ_$(TGT)_main_$(DAT).tar.gz main
 
-
-archive:
-	git archive --format=tar.gz -o $(BU_DIR)/BQ_$(TGT)_main_$(DAT).tar.gz main

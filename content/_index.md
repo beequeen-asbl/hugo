@@ -37,9 +37,7 @@ La mission de l’asbl BeeQueen est de fédérer au sein d’un réseau régiona
 <div class="conf">
 <div class="cnt">
 
-> Le dimanche **26 mars** 2023:  
-> *Au trou de vol*  
-> par Renaud Delfosse
+> En septembre 2023...
 
 </div>
 <h5 class="drt"><a href="/agenda">Tous les détails ici</a></h5>
