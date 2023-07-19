@@ -25,7 +25,7 @@ layout: main
 
 <tr>
 <td></td>
-<td align="center"><a href="/agenda/conferences-passees/rdelfosse"><img src="/static/img/pdf.jpg" alt=""></a></td>
+<td align="center"></td>
 <td>26.03.2023</td>
 <td>Renaud Delfosse</td>
 <td>Au trou de vol</td>
@@ -54,6 +54,7 @@ layout: main
 <td>Bernard LIEPIN</td>
 <td>La démocratie chez les abeilles, un modèle de société</td>
 </tr>
+
 <tr>
 <td></td>
 <td align="center"></td>
