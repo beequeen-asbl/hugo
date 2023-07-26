@@ -21,10 +21,17 @@ description: Agenda
 -->
 
 </div>
+
 <div class="block droite">
 
-*Vous pouver consulter  
- la liste des [Conférences passées](/agenda/conferences-passees/)  
+**Rester informé:**  
+Voulez vous recevoir un email annoncant  
+*chacune de nos conférences?*  
+[S'inscrire](https://beequeen.us12.list-manage.com/subscribe/post?u=7de077c5bf207b97983ba770d&amp;id=777c2a4441)  
+
+
+*Vous pouvez **consulter la liste**  
+des [Conférences passées](/agenda/conferences-passees/)  
 et télécharger les supports associés.*
 
 ![](/static/img/conference_1_420x226.jpg)
