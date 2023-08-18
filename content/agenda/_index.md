@@ -8,18 +8,19 @@ description: Agenda
 <div class="block gauche">
 
 <h2>Prochaines conférences:</h2>
-<!--
 <div>
 
-> Le dimanche **26 mars** 2023:  
+> Le dimanche 10 septembre 2023  
 >  
-> *Au trou de vol*  
+> **Débriefing de la saison apicole 2023**  
+  
+> Le dimanche 8 octobre 2023  
 >  
-> par Renaud Delfosse
+> **Analyse de la cire**  
+>  
+> *par Noëmie El Agrebi*   
 
 </div>
--->
-
 </div>
 
 <div class="block droite">

@@ -33,11 +33,16 @@ La mission de l’asbl BeeQueen est de fédérer au sein d’un réseau régiona
 </table>
 </div>
 <div class="block droite">
-<h3 class="cntr">Prochaine conférence:</h3>
+<h3 class="cntr">Prochaines conférence:s</h3>
 <div class="conf">
 <div class="cnt">
 
-> En septembre 2023...
+> Le dimanche 10 septembre 2023  
+> **Débriefing de la saison apicole 2023**  
+> 
+> Le dimanche 8 octobre 2023  
+> **Analyse de la cire**  
+> *par Noëmie El Agrebi*   
 
 </div>
 <h5 class="drt"><a href="/agenda">Tous les détails ici</a></h5>
