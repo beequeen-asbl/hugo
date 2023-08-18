@@ -33,7 +33,7 @@ La mission de l’asbl BeeQueen est de fédérer au sein d’un réseau régiona
 </table>
 </div>
 <div class="block droite">
-<h3 class="cntr">Prochaines conférence:s</h3>
+<h3 class="cntr">Prochaines conférences:</h3>
 <div class="conf">
 <div class="cnt">
 
