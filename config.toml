@@ -1,5 +1,7 @@
 baseurl = "/"
-# languageCode = "fr"
+languageCode = "fr-FR"
+defaultContentLanguage = "fr"
+defaultContentLang = "fr"
 title = "BeeQueen asbl"
 ## relativeURLs = true
 relativeURLs = false
