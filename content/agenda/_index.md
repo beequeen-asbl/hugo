@@ -16,7 +16,7 @@ description: Agenda
   
 > Le dimanche 8 octobre 2023  
 >  
-> **Analyse de la cire**  
+> **Analyse de la cire: étonnants résultats**  
 >  
 > *par Noëmie El Agrebi*   
 

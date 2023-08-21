@@ -41,7 +41,7 @@ La mission de l’asbl BeeQueen est de fédérer au sein d’un réseau régiona
 > **Débriefing de la saison apicole 2023**  
 > 
 > Le dimanche 8 octobre 2023  
-> **Analyse de la cire**  
+> **Analyse de la cire: étonnants résultats**  
 > *par Noëmie El Agrebi*   
 
 </div>
