@@ -19,6 +19,9 @@ description: Agenda
 > **Analyse de la cire: étonnants résultats**  
 >  
 > *par Noëmie El Agrebi*   
+>
+> ![](/static/img/conference_cires.png)
+>
 
 </div>
 </div>
