@@ -9,13 +9,13 @@ layout: main
 
 <i>Merci à</i>  
 <a href="https://www.travelec.be">TRAVELEC</a>   
+Herstal  
 <div class="thumb">
 <a href="#" target="_blank"><img src="/static/img/Travelec2.jpg" alt="Travelec"/></a>
 </div>
 
 <i>Merci à</i>  
 HALOCLINE  
-Herstal  
 <div class="thumb">
 <a href="#" target="_blank"><img src="/static/img/Halocline2.jpg"></a>
 </div>
