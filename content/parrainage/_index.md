@@ -7,35 +7,26 @@ layout: main
 <div class="block-group">
 <div class="block gauche_etroit">
 
+<i>Merci à</i>  
+<a href="https://www.travelec.be">TRAVELEC</a>   
 <div class="thumb">
-<a href="#" target="_blank"><img src="/static/img/ruche_garsou_40pct.jpg"></a>
+<a href="#" target="_blank"><img src="/static/img/Travelec2.jpg" alt="Travelec"/></a>
 </div>
 
 <i>Merci à</i>  
-<a href="http://www.garsou.com">GARSOU</a>   
-société de bricolage,  
-à Theux  
-
+HALOCLINE  
+Herstal  
 <div class="thumb">
-<a href="#" target="_blank"><img src="/static/img/ruches_Joseph_2018_54pct.jpg" alt="Joseph"/></a>
+<a href="#" target="_blank"><img src="/static/img/Halocline2.jpg"></a>
 </div>
+<br>
+<br>
 
-<i>Merci à</i>  
-* <a href="http://www.cornet-mockel.net/">CORNET-MOCKEL</a>,  
-à Dison  
-<i>et à</i>  
-* Architecture  
-<a href="http://www.architecture-lg.be/">LEJEUNE GIOVANELLI</a>,   
-à Pepinster  
-
-<div class="thumb">
-<a href="#" target="_blank"><img src="/static/img/ruche_biofagnes_60pct.jpg"></a>
-</div>
-
-<i>Merci à</i>  
-<a href="http://biofagnes.be/pages/idees_theux.html">bio FAGNES</a>,   
-magasin biologique  
-à Theux  
+<i>Merci à nos anciens sponsors:</i>  
+Bio-Fagne (Theux)   
+Cornet-Mockel (Dison)   
+Garsou (Theux)  
+Lejeune Giovanelli (Pépinster)  
 
 </div>
 <div class="block droite_large">
@@ -95,17 +86,19 @@ BeeQueen asbl est une équipe d’apiculteurs bénévoles installés sur la comm
 
 Nous consacrons à notre mission **des centaines d’heures par an de manière bénévole** et nous avons créé notre projet sur fonds propres. Nous avons besoin de votre soutien financier pour nous aider à continuer de développer les projets en cours suivants :
 
-1. **Le rucher école** à la ferme de Fancheumont (La Reid) qui forme en moyenne une vingtaine d’apiculteurs chaque année, pour garantir la transmission du savoir-faire apicole et remplacer les apiculteurs qui partent à la retraite (frais de conférenciers, frais de matériel apicole, location de salle).  
+* **Le rucher école** à la ferme de Fancheumont (La Reid) qui forme en moyenne une vingtaine d’apiculteurs chaque année, pour garantir la transmission du savoir-faire apicole et remplacer les apiculteurs qui partent à la retraite (frais de conférenciers, frais de matériel apicole, location de salle).  
 
+<!--
 2. **La station de fécondation** dans la forêt d’Hertogenwald au bord du parc naturel des Hautes Fagnes. Cette station permet aux apiculteurs d’obtenir des colonies d’abeilles sélectionnés notamment pour la résistance aux parasites tel que le varroa (frais de transports, frais de matériel).  
 
 3. **La recherche scientifique** en collaboration avec le programme européen Beebreed pour lutter contre les parasites qui affaiblissent et déciment nos abeilles comme par exemple, le varroa qui est un acarien invasif (documentation, frais de transport aux colloques, formations, …).  
+-->
 
-4. **Les conférences apicoles** et environnementales pour la transmission du savoir au plus grand nombre (frais de location de salle, frais de conférenciers).
+* **Les conférences apicoles** et environnementales pour la transmission du savoir au plus grand nombre (frais de location de salle, frais de conférenciers).
 
-5. **Les frais structurels** de l’asbl (site Internet, frais administratifs, communication, formations, assurances, comptabilité, …).
+* **Les frais structurels** de l’asbl (site Internet, frais administratifs, communication, formations, assurances, comptabilité, …).
 
-6. **A acheter les pots de miel** à un prix équitable à l’apiculteur qui soignera votre colonie.
+* **A acheter les pots de miel** à un prix équitable à l’apiculteur qui soignera votre colonie.
 
 **Si vous souhaitez être contacté et recevoir un contrat de parrainage**, merci de nous envoyer un message à "secre<!-- abc@def -->tariat@beeque<!-- @abc.com -->en.be"
 

@@ -43,6 +43,10 @@ La mission de l’asbl BeeQueen est de fédérer au sein d’un réseau régiona
 > Le dimanche 8 octobre 2023  
 > **Analyse de la cire: étonnants résultats**  
 > *par Noëmie El Agrebi*   
+> 
+> Le dimanche 3 décembre 2023  
+> **Le macrobiome de l'abeille**  
+> *par Myriam Lefèvre*   
 
 </div>
 <h5 class="drt"><a href="/agenda">Tous les détails ici</a></h5>
