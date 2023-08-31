@@ -34,6 +34,13 @@ description: Agenda
 > Le macrobiome est l’ensemble des microorganismes (bactéries, mycètes et protozoaires) présents dans les abeilles, dans leurs nids et dans l’environnement extérieur des colonies (sols, air et plantes mellifères). L’exposé fera le point sur la présence et le rôle essentiel que ces microorganismes jouent pour la santé et la survie des abeilles mellifères.   
 >
 
+> Le dimanche 7 janvier 2024  
+>
+> **Aspects légaux de notre apiculture**  
+>
+> *par Alexandre Bernier*   
+> 
+ 
 </div>
 </div>
 
