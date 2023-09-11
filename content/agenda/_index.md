@@ -9,10 +9,6 @@ description: Agenda
 
 <h2>Prochaines conférences:</h2>
 <div>
-
-> Le dimanche 10 septembre 2023  
->  
-> **Débriefing de la saison apicole 2023**  
   
 > Le dimanche 8 octobre 2023  
 >  
