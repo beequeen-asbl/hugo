@@ -7,9 +7,9 @@ layout: main
 <div class="block gauche">
 
 <div class="fadein">
-<img src="/static/img/slc-cadreMiel.jpg" width="100%">
 <img src="/static/img/slc-reine.jpg" width="100%">
 <img src="/static/img/slc-atterrissage.jpg" width="100%">
+<img src="/static/img/slc-cadreMiel.jpg" width="100%">
 <img src="/static/img/slc-adolf_joseph_3.jpg" width="100%">
 <img src="/static/img/slc-beequeen.jpg" width="100%">
 <img src="/static/img/slc-adolf_picking.jpg" width="100%">
@@ -37,11 +37,6 @@ La mission de l’asbl BeeQueen est de fédérer au sein d’un réseau régiona
 <div class="conf">
 <div class="cnt">
 
-> Le dimanche 8 octobre 2023  
-> **Analyse de la cire: étonnants résultats**  
-> *par Noëmie El Agrebi*   
-> 
-> Le dimanche 3 décembre 2023  
 > **Le macrobiome de l'abeille**  
 > *par Myriam Lefèvre*   
 > 

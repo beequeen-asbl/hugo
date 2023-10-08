@@ -10,15 +10,6 @@ description: Agenda
 <h2>Prochaines conférences:</h2>
 <div>
   
-> Le dimanche 8 octobre 2023  
->  
-> **Analyse de la cire: étonnants résultats**  
->  
-> *par Noëmie El Agrebi*   
->
-> ![](/static/img/conference_cires.png)
->
-  
 > Le dimanche 3 décembre 2023  
 >  
 > **Le macrobiome de l'abeille**  
