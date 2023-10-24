@@ -47,7 +47,7 @@ de l’abeille et de l’environnement.</p>
 <li>8. Vous recevrez chaque année le PV de notre assemblée générale pour que vous puissiez juger de la bonne gouvernance comptable de l’asbl.</li>
 </ul>
 
-<h3>TARIFS 2018</h3>
+<h3>TARIFS 2024</h3>
 <div class="withborder">
 <table>
 <tr>
