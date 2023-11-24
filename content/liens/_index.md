@@ -15,7 +15,7 @@ Son objectif est la promotion et le développement de l'apiculture au travers de
 [butine.info](https://butine.info)  
 [Bee Wallonie](https://www.beewallonie.be)  
 [Buzz2beez](https://www.youtube.com/channel/UCyvJ18KdfQreFLj9UJCFd1Q/videos)  
-[Guide des bonnes pratiques apicoles](https://www.cari.be/medias/autres_publications/gdbp-franc_br.pdf)  
+[Guide des bonnes pratiques apicoles](https://www.cari.be/Guide-de-bonnes-pratiques.html)
 
 <!--
 

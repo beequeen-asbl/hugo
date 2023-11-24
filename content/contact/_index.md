@@ -15,12 +15,14 @@ Courriel: secre<!-- abc@def -->tariat@beeque<!-- @abc.com -->en.be</a></p>
 </blockquote>
 </div>
 <div class="block droite">
+<!--
 <blockquote>
 <h3 class="gris">Rester informé:</h3>
 Voulez vous recevoir un email<br>
 annoncant chacune de nos conférences?</br>
-<!-- <a href="mailing-list">S'inscrire</a> -->
+< !-- <a href="mailing-list">S'inscrire</a> -- >
 <a href="https://beequeen.us12.list-manage.com/subscribe/post?u=7de077c5bf207b97983ba770d&amp;id=777c2a4441">S'inscrire</a>
+-->
 <blockquote>
 </div>
 </div>

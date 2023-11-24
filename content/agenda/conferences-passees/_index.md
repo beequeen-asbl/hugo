@@ -10,7 +10,7 @@ layout: main
 | | 08.10.2023 | Noëmie EL AGREBI | | [La qualité de la cire d'abeille à usage apicole](/agenda/conferences-passees/nelagrebi) |
 | | 10.09.2023 | Membres BeeQueen | | Débriefing de la saison 2023 |
 | **2022-2023** | | | |
-| | 26.03.2023 | Renaud Delfosse | | Au trou de vol               |
+| | 26.03.2023 | Renaud DELFOSSE | | Au trou de vol               |
 | | 19.02.2023 | Julien DUWEZ | ![](/static/img/pdf21.jpg) | [Projet Wallon de sélection d’abeilles résistantes à varroa](/agenda/conferences-passees/jduwez) | [](/static/img/pdf.jpg) |
 | | 20.11.2022 | Didier BRICK | ![](/static/img/pdf21.jpg) | [Les faux-bourdons, spermatozoïdes ailés](/agenda/conferences-passees/dbrick2) |
 | | 23.10.2022 | Bernard LIEPIN | | La démocratie chez les abeilles, un modèle de société |
@@ -23,7 +23,7 @@ layout: main
 | **2020-2021** | | | |
 | | - | | 
 | **2019-2020** | | | |
-| | 02.02.2020 | René Van Dormael | | Apiculture, abeilles et pollinisation |
+| | 02.02.2020 | René VAN DORMAEL | | Apiculture, abeilles et pollinisation |
 | | 12.01.2020 | Didier BRICK | | [Arista Bee Research Belgium](/agenda/conferences-passees/arista) | 
 | | 17.11.2019 | Dr. Vincent PIETTE | ![](/static/img/pdf21.jpg) | [Allergies au venin d’abeille](/agenda/conferences-passees/vpiette/) |
 | | 13.10.2019 | Louis HAUTIER | | [Le frelon asiatique, état des lieux et comment gérer l’invasion](/agenda/conferences-passees/lhautier) |
