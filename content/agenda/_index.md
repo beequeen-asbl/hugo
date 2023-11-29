@@ -48,6 +48,14 @@ description: Agenda
 >
 
  
+> 
+> Le <ins>**SAMEDI**</ins> 2 mars 2024  
+>
+> **Animation sur la protection des ruches contre le frelon asiatique**  
+>
+> *par Agnès Fayet*, Administratrice déléguée au CARI
+>
+
 </div>
 </div>
 
