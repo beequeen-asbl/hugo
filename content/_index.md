@@ -37,12 +37,9 @@ La mission de l’asbl BeeQueen est de fédérer au sein d’un réseau régiona
 <div class="conf">
 <div class="cnt">
 
-> Le dimanche 3 décembre 2023  
-> **Le macrobiome de l'abeille**  
-> *par Myriam Lefèvre*   
 > 
 > Le dimanche 7 janvier 2024  
-> **Aspects légaux de notre apiculture**   
+> **Aspects légaux de notre apiculture**  
 > *par Alexandre Bernier*  
 > 
 > Le dimanche 4 févier 2024  
