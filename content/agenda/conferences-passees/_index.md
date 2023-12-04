@@ -7,7 +7,7 @@ layout: main
 | Saison | Date | Conférencier | | Titre de la conférence |
 |------|---|---|-|---|
 | **2023-2024** | | | | |
-| | 03.12.2023 | Myriam LEFEVRE | | [Le macrobiome de l’abeille](/agenda/conferences-passees/mlefevre) |
+| | 03.12.2023 | Myriam LEFEVRE | ![](/static/img/pdf21.jpg) | [Le macrobiome de l’abeille](/agenda/conferences-passees/mlefevre) |
 | | 08.10.2023 | Noëmie EL AGREBI | | [La qualité de la cire d'abeille à usage apicole](/agenda/conferences-passees/nelagrebi) |
 | | 10.09.2023 | Membres BeeQueen | | Débriefing de la saison 2023 |
 | **2022-2023** | | | |
