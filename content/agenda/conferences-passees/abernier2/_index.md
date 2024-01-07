@@ -7,8 +7,8 @@ css: page_centree
 
 [Conférences passéees](/agenda/conferences-passees/)
 
-> #### Le dimanche 7 janvier 2024
-> ### Gestion administrative et financière d'un rucher : un exemple régional
+> #### Le dimanche 7 janvier 2024
+> ### Aspects légaux de notre apiculture
 > ### par Alexandre BERNIER
 
 ### Documents à télécharger  
