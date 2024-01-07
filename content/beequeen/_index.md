@@ -60,12 +60,11 @@ Nos valeurs fondamentales sont:
 * La bonne humeur, l’humour et la convivialité !
 
 ### Les membres fondateurs
-* Gaëtan Leveaux, apiculteur à Theux
 * Adolf Toussaint, apiculteur à Vert Buisson (Theux)
-* Annick Timmermans, apicultrice à Vert Buisson (Theux)
-* Joseph Rouchet, apiculteur à Theux
-* André Leveaux, Theux
 * Jacques Janssen, apiculteur à La Reid (Theux)
+* Joseph Rouchet, apiculteur à Theux
 * Jean-Cédric Jacmart, apiculteur à Haute-Desnié (Theux)
+* Annick Timmermans, apicultrice à Vert Buisson (Theux)
+* Gaëtan Leveaux, apiculteur à Theux
+* André Leveaux, Theux
 
-<h3>Les statuts de BeeQueen<a href="https://pdf.beequeen.be/beequeen/beequeen_statuts.pdf"><img src="/static/img/pdf.jpg"></a></h3>

@@ -10,13 +10,6 @@ description: Agenda
 <h2>Prochaines conférences:</h2>
 <div>
 
-> Le dimanche 7 janvier 2024  
->
-> **Aspects légaux de notre apiculture**  
->
-> *par Alexandre Bernier*   
-> 
-
 > Le dimanche 4 février 2024  
 >
 > **Dans l'esprit d'une abeille**  

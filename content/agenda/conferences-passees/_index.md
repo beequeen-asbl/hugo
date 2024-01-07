@@ -7,6 +7,7 @@ layout: main
 | Saison | Date | Conférencier | | Titre de la conférence |
 |------|---|---|-|---|
 | **2023-2024** | | | | |
+| | 07.01.2024 | Alexandre BERNIER | ![](/static/img/pdf21.jpg) | [Aspects légaux de notre apiculture](/agenda/conferences-passees/abernier2) |
 | | 03.12.2023 | Myriam LEFEVRE | ![](/static/img/pdf21.jpg) | [Le macrobiome de l’abeille](/agenda/conferences-passees/mlefevre) |
 | | 08.10.2023 | Noëmie EL AGREBI | | [La qualité de la cire d'abeille à usage apicole](/agenda/conferences-passees/nelagrebi) |
 | | 10.09.2023 | Membres BeeQueen | | Débriefing de la saison 2023 |

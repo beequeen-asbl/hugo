@@ -38,10 +38,6 @@ La mission de l’asbl BeeQueen est de fédérer au sein d’un réseau régiona
 <div class="cnt">
 
 > 
-> Le dimanche 7 janvier 2024  
-> **Aspects légaux de notre apiculture**  
-> *par Alexandre Bernier*  
-> 
 > Le dimanche 4 févier 2024  
 > **Dans l'esprit d'une abeille**   
 > *par Bernard Liépin*  
