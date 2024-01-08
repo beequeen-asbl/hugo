@@ -6,7 +6,7 @@ title = "BeeQueen asbl"
 ## relativeURLs = true
 relativeURLs = false
 publishdir = "docs"
-disableKinds = ["taxonomy", "taxonomyTerm", "sitemap", "RSS", "404"]
+disableKinds = ["taxonomy", "sitemap", "RSS", "404"]
 
 # [[menu.main]]
 #     name = "Accueil"
