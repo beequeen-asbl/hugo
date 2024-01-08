@@ -23,5 +23,5 @@ Etre membre vous donne droit à une réduction de 50% sur la participation des c
 
 ## COMMENT DEVENIR MEMBRE ?
 
-En versant 15 € sur le compte BeeQueen asbl BE?? ???? ???? ???? en ajoutant en communication « Membre + nom + prénom + année».
+En versant 15 € sur le compte BeeQueen asbl BE11 1030 8791 8848 en ajoutant en communication « Membre + nom + prénom + année».
 
