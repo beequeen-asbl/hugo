@@ -22,5 +22,6 @@ css: page_centree
 <input type="hidden" name="conf" value="ABernier">
 <input type="hidden" name="fich" value="7janvier_2024_aspects_legaux_apicultures_extrait_conference.pdf">
 <input type="hidden" name='lbl'  value="aspects l&eacute;gaux de notre apiculture">
+<input type="hidden" name='from' value="https://www.beequeen.be/agenda/conferences-passees/abernier2">
 <input type="submit" value="aspects l&eacute;gaux de notre apiculture - extraits de la conference"> (accès réservé)
 </form>
