@@ -13,3 +13,6 @@ css: page_centree
 
 ### Documents à télécharger  
 [![](/static/img/pdf.jpg ) Formulaires d'inscription à l'AFSCA](https://pdf.beequeen.be/agenda/conferences-passees/abernier2/formulaire_AFSCA_2013-12-10_Annexe_AM_Agrements_version21-11-2013NEW.pdf)
+
+[![](static/img/pdf.img) Aspects legaux de notre apiculture - extraits de la conference](https://beequeen.be/private/index.php?conf=ABernier&fich=7janvier_2024_aspects_legaux_apicultures_extrait_conference.pdf) (accès réservé)
+
