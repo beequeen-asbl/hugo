@@ -7,11 +7,12 @@ css: page_centree
 
 [Conférences passéees](/agenda/conferences-passees/)
 
-> #### Dimanche 4 février 2024
-> ### Dans l’esprit d’une abeille
-> ### par Bernard LIEPIN
+>  
+> #### Le dimanche 4 février 2024  
+> ### Dans l'esprit d'une abeille  
+> ### par Bernard Liépin   
+>  
 
->
 > ![](/static/img/bliepin2.jpg)  
 >
 > Sur bases des plus récentes découvertes publiées par des scientifiques de renommée internationale, Bernard Liépin, nous fera découvrir l'abeille sous un jour nouveau et jusqu'ici, pratiquement inconnu, y compris des apiculteurs.  

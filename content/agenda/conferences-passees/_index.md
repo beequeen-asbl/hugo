@@ -7,6 +7,7 @@ layout: main
 | Saison | Date | Conférencier | | Titre de la conférence |
 |------|---|---|-|---|
 | **2023-2024** | | | | |
+| | 04.02.2024 | Bernard LIEPIN | | [Dans l’esprit d’une abeille](/agenda/conferences-passees/bliepin) |
 | | 07.01.2024 | Alexandre BERNIER | ![](/static/img/pdf21.jpg) | [Aspects légaux de notre apiculture](/agenda/conferences-passees/abernier2) |
 | | 03.12.2023 | Myriam LEFEVRE | ![](/static/img/pdf21.jpg) | [Le macrobiome de l’abeille](/agenda/conferences-passees/mlefevre) |
 | | 08.10.2023 | Noëmie EL AGREBI | | [La qualité de la cire d'abeille à usage apicole](/agenda/conferences-passees/nelagrebi) |

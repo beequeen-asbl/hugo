@@ -38,10 +38,6 @@ La mission de l’asbl BeeQueen est de fédérer au sein d’un réseau régiona
 <div class="cnt">
 
 > 
-> Le dimanche 4 févier 2024  
-> **Dans l'esprit d'une abeille**   
-> *par Bernard Liépin*  
-> 
 > Le <ins>**SAMEDI**</ins> 2 mars 2024  
 > **Animation sur la protection des ruches contre le frelon asiatique**  
 > *par Agnès Fayet* 
