@@ -33,14 +33,12 @@ La mission de l’asbl BeeQueen est de fédérer au sein d’un réseau régiona
 </table>
 </div>
 <div class="block droite">
-<h3 class="cntr">Prochaines conférences:</h3>
+<h3 class="cntr">Conférences:</h3>
 <div class="conf">
 <div class="cnt">
 
 > 
-> Le <ins>**SAMEDI**</ins> 2 mars 2024  
-> **Animation sur la protection des ruches contre le frelon asiatique**  
-> *par Agnès Fayet* 
+> dès *septembre* 2024  
 >
 
 </div>

@@ -7,6 +7,7 @@ layout: main
 | Saison | Date | Conférencier | | Titre de la conférence |
 |------|---|---|-|---|
 | **2023-2024** | | | | |
+| | 02.03.2024 | Agnès FAYET | ![](/static/img/pdf21.jpg) | [Animation sur la protection des ruches contre le frelon asiatique](/agenda/conferences-passees/afayet) |
 | | 04.02.2024 | Bernard LIEPIN | | [Dans l’esprit d’une abeille](/agenda/conferences-passees/bliepin) |
 | | 07.01.2024 | Alexandre BERNIER | ![](/static/img/pdf21.jpg) | [Aspects légaux de notre apiculture](/agenda/conferences-passees/abernier2) |
 | | 03.12.2023 | Myriam LEFEVRE | ![](/static/img/pdf21.jpg) | [Le macrobiome de l’abeille](/agenda/conferences-passees/mlefevre) |
