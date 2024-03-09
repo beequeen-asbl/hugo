@@ -17,4 +17,4 @@ css: page_centree
 
 ## Documents:
 
-*[![](/static/img/pdf.jpg ) Le support de sa conférence](http://pdf.beequeen.be/agenda/conferences-passees/afayet/protection-des-ruches-contre-le-frelon-asiatique.pdf)
+*[![](/static/img/pdf.jpg ) Le support de sa conférence](http://pdf.beequeen.be/agenda/conferences-passees/afayet/FA-Apiculture-AF.pdf)
