@@ -39,10 +39,12 @@ layout: main
 
 La session de cours actuelle a commencé le 18 septembre 2022,  
 et se terminera en août 2024.  
-*Les inscriptions sont **clôturées**, il ne reste aucune place disponible!*  
 
-Si vous désirez être recontacté(e) avant la session de cours suivante (septembre 2024 -> août 2026),
-vous pouvez laisser vos coordonnées <a href="https://www.beequeen.be/cours/candidats">ici</a>
+Si vous désirez être recontacté(e) avant la session de cours suivante  
+(normalement septembre 2024 -> août 2026),  
+vous pouvez laisser vos coordonnées <a href="https://www.beequeen.be/cours/candidats">ici</a>.  
+Nous vous recontacterons dès que les inscriptions seront ouvertes.
+
 <br>
 <hr>
 <div>  
