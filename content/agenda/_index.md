@@ -11,9 +11,51 @@ description: Agenda
 <div>
 
 > 
-> en *septembre* 
+> le dimanche 15 septembre  
+> **Débriefing de la saison 2024**  
 >
 
+>
+> le SAMEDI 26 octobre  
+> **Fabrication de pièges pour lutter contre le frelon asiatique**  
+> *par le CARI*  
+>
+>    - Rappels théoriques de la conférence du 02 mars 2024  
+>    - fabrication de pièges  
+>
+> <b>ATTENTION:</b>   
+>      Conférence accessible uniquement sur <b>inscription préalable</b>  
+>      Nombre de places limité  
+>
+
+>
+> le dimanche 24 novembre  
+> **Agrobiologie**  
+> *par Mr. Delfosse*  
+>
+
+<!-- 
+-->
+
+>
+> le dimanche 12 janvier 2025  
+> **La récole du pollen**  
+> *par Mr. Didier Brick*  
+>
+
+>
+> le dimanche 9 février 2015  
+> **L'impact des nombreuses ondes électromagnétiques sur la santé et le bien-être de nos abeilles. Prévention et remèdes.**  
+> *par Mr. Bernard Liépin*  
+>
+
+>
+> le dimanche 18 mai 2025  
+> **Fête de l'Abeiile**  
+>   
+
+<!-- 
+-->
 </div>
 </div>
 

@@ -33,12 +33,21 @@ La mission de l’asbl BeeQueen est de fédérer au sein d’un réseau régiona
 </table>
 </div>
 <div class="block droite">
-<h3 class="cntr">Conférences:</h3>
+<h3 class="cntr">Prochaines conférences:</h3>
 <div class="conf">
 <div class="cnt">
 
 > 
-> dès *septembre* 2024  
+> le dimanche 15 septembre  
+> **Débriefing de la saison 2024**  
+>
+> le SAMEDI 26 octobre (uniquement sur inscription préalable)
+> **Fabrication de pièges pour lutter contre le frelon asiatique**  
+> *par le CARI*  
+>
+> le dimanche 24 novembre  
+> **Agrobiologie**  
+> *par Mr. Delfosse*  
 >
 
 </div>

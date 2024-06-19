@@ -10,8 +10,16 @@ layout: main
 </p>  
 
 <div class="info">
+
+Après avoir organisé des cours d'apiculture pendant une douzaine d'années,
+nous avons décidé de marquer une pause.  
+Aucun cours ne commencera donc cet automne 2024.
+
 </div>
+
 <div class="folder">
+<hr>
+<h4>Folder de présentation de la dernière session de cours:</h4>
 <picture>
   <source type="image/avif" srcset="/static/img//BEE-2022-Slides-V2-0.avif">
   <img alt="cours_folder_1a" src="/static/img/BEE-2022-Slides-V2-0.jpg">
@@ -36,19 +44,11 @@ layout: main
   <source type="image/avif" srcset="/static/img//BEE-2022-Slides-V2-4.avif">
   <img alt="cours_folder_2c" src="/static/img/BEE-2022-Slides-V2-4.jpg">
 </picture>
-
-La session de cours actuelle a commencé le 18 septembre 2022,  
-et se terminera en août 2024.  
-
-Si vous désirez être recontacté(e) avant la session de cours suivante  
-(normalement septembre 2024 -> août 2026),  
-vous pouvez laisser vos coordonnées <a href="https://www.beequeen.be/cours/candidats">ici</a>.  
-Nous vous recontacterons dès que les inscriptions seront ouvertes.
-
 <br>
 <hr>
 <div>  
-<h4>Visite de ruches le dimanche 28 juin 2020 lors du cours de base</h4>
+
+<h4>Visite de ruches le dimanche 28 juin 2020 lors du cours de base:</h4>
 </div>
 <picture>
   <source type="image/avif" srcset="/static/img/image0.avif">
@@ -56,7 +56,7 @@ Nous vous recontacterons dès que les inscriptions seront ouvertes.
 </picture>
 
 <div>  
-<h4>Visite de ruches le dimanche 13 octobre 2019 avec des élèves du cours d'initiation</h4>
+<h4>Visite de ruches le dimanche 13 octobre 2019 avec des élèves du cours d'initiation:</h4>
 <img src="/static/img/10.jpg">  
 <img src="/static/img/23.jpg">
 <img src="/static/img/22.jpg"> 
