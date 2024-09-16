@@ -6,6 +6,8 @@ layout: main
 
 | Saison | Date | Conférencier | | Titre de la conférence |
 |------|---|---|-|---|
+| **2024-2025** | | | | |
+| | 15.09.2023 | Membres BeeQueen | | Débriefing de la saison 2024 |
 | **2023-2024** | | | | |
 | | 02.03.2024 | Agnès FAYET | ![](/static/img/pdf21.jpg) | [Animation sur la protection des ruches contre le frelon asiatique](/agenda/conferences-passees/afayet) |
 | | 04.02.2024 | Bernard LIEPIN | | [Dans l’esprit d’une abeille](/agenda/conferences-passees/bliepin) |

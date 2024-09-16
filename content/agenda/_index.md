@@ -10,11 +10,6 @@ description: Agenda
 <h2>Prochaines conférences:</h2>
 <div>
 
-> 
-> le dimanche 15 septembre  
-> **Débriefing de la saison 2024**  
->
-
 >
 > le SAMEDI 26 octobre  
 > **Fabrication de pièges pour lutter contre le frelon asiatique**  
