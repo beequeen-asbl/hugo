@@ -37,11 +37,6 @@ La mission de l’asbl BeeQueen est de fédérer au sein d’un réseau régiona
 <div class="conf">
 <div class="cnt">
 
-> 
-> le SAMEDI 26 octobre  
-> **Fabrication de pièges pour lutter contre le frelon asiatique**  
-> *par le CARI*  
-> (uniquement sur inscription préalable)
 >
 > le dimanche 24 novembre  
 > **Agrobiologie**  
@@ -51,6 +46,12 @@ La mission de l’asbl BeeQueen est de fédérer au sein d’un réseau régiona
 > **La récole du pollen**  
 > *par Mr. Didier Brick*  
 >
+> le dimanche 9 février 2015  
+> **L’impact des ondes électromagnétiques sur les abeilles**  
+> *par Mr. Bernard Liépin*  
+>
+> **le dimanche 18 mai 2025**  
+> *Fête de l’Abeiile*  
 
 </div>
 <h5 class="drt"><a href="/agenda">Tous les détails ici</a></h5>

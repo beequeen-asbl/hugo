@@ -11,26 +11,10 @@ description: Agenda
 <div>
 
 >
-> le SAMEDI 26 octobre  
-> **Fabrication de pièges pour lutter contre le frelon asiatique**  
-> *par le CARI*  
->
->    - Rappels théoriques de la conférence du 02 mars 2024  
->    - fabrication de pièges  
->
-> <b>ATTENTION:</b>   
->      Conférence accessible uniquement sur <b>inscription préalable</b>  
->      Nombre de places limité  
->
-
->
 > le dimanche 24 novembre  
 > **Agrobiologie**  
 > *par Mr. Delfosse*  
 >
-
-<!-- 
--->
 
 >
 > le dimanche 12 janvier 2025  
