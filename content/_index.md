@@ -38,10 +38,6 @@ La mission de l’asbl BeeQueen est de fédérer au sein d’un réseau régiona
 <div class="cnt">
 
 >
-> le dimanche 24 novembre  
-> **Agrobiologie**  
-> *par Mr. Delfosse*  
->
 > le dimanche 12 janvier 2025  
 > **La récole du pollen**  
 > *par Mr. Didier Brick*  

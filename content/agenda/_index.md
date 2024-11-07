@@ -11,9 +11,10 @@ description: Agenda
 <div>
 
 >
-> le dimanche 24 novembre  
-> **Agrobiologie**  
-> *par Mr. Delfosse*  
+> <s> le dimanche 24 novembre  
+>  Agroécologie et l'abeille  
+>  pr Mr. Delfosse </s>  
+>  *Le Conférencier a dû **annuler** pour raison de santé*     
 >
 
 >
