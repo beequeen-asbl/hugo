@@ -20,7 +20,8 @@ help:
 	@echo "   make deploy"
 
 build:
-	hugo -D -v
+	# hugo -D -v
+	hugo -D --logLevel info
 	@for h in $(HTML); do sed '/^$$/d' -i $$h; done
 
 clean:

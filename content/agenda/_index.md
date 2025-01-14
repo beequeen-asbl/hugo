@@ -11,19 +11,6 @@ description: Agenda
 <div>
 
 >
-> <s> le dimanche 24 novembre  
->  Agroécologie et l'abeille  
->  pr Mr. Delfosse </s>  
->  *Le Conférencier a dû **annuler** pour raison de santé*     
->
-
->
-> le dimanche 12 janvier 2025  
-> **La récole du pollen**  
-> *par Mr. Didier Brick*  
->
-
->
 > le dimanche 9 février 2015  
 > **L'impact des nombreuses ondes électromagnétiques sur la santé et le bien-être de nos abeilles. Prévention et remèdes.**  
 > *par Mr. Bernard Liépin*  
