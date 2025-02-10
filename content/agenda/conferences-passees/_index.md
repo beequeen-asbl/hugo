@@ -7,6 +7,7 @@ layout: main
 | Saison | Date | Conférencier | | Titre de la conférence |
 |------|---|---|-|---|
 | **2024-2025** | | | | |
+| | 09.O2.ZOZ5 | Bernard LIEPIN | | L'impact des ondes électromagnétiques sur les abeilles |
 | | 12.O1.ZOZ5 | Didier BRICK | | La récolte du pollen |
 | | 26.10.2024 | Victor HERMAN | | Fabrication de pièges pour lutter contre le frelon asiatique |
 | | 15.09.2024 | Membres BeeQueen | | Débriefing de la saison 2024 |

@@ -11,18 +11,10 @@ description: Agenda
 <div>
 
 >
-> le dimanche 9 février 2015  
-> **L'impact des nombreuses ondes électromagnétiques sur la santé et le bien-être de nos abeilles. Prévention et remèdes.**  
-> *par Mr. Bernard Liépin*  
->
-
->
 > le dimanche 18 mai 2025  
 > **Fête de l'Abeiile**  
 >   
 
-<!-- 
--->
 </div>
 </div>
 

@@ -38,10 +38,6 @@ La mission de l’asbl BeeQueen est de fédérer au sein d’un réseau régiona
 <div class="cnt">
 
 >
-> le dimanche 9 février 2015  
-> **L’impact des ondes électromagnétiques sur les abeilles**  
-> *par Mr. Bernard Liépin*  
->
 > **le dimanche 18 mai 2025**  
 > *Fête de l’Abeiile*  
 
