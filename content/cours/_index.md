@@ -13,7 +13,7 @@ layout: main
 
 Après avoir organisé des cours d'apiculture pendant une douzaine d'années,
 nous avons décidé de marquer une pause.  
-Aucun cours ne commencera donc cet automne 2024.
+Aucun cours ne commencera donc cet automne 2024, ni cet automne 2025.
 
 </div>
 
