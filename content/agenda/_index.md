@@ -12,8 +12,10 @@ description: Agenda
 
 >
 > le dimanche 18 mai 2025  
-> **Fête de l'Abeiile**  
->   
+> de 9h30 à 13h00  
+> **La ruche basse consommation**  
+> Par Mr. Benoit Gemis  
+>
 
 </div>
 </div>
