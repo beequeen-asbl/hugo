@@ -38,10 +38,8 @@ La mission de l’asbl BeeQueen est de fédérer au sein d’un réseau régiona
 <div class="cnt">
 
 >
-> le dimanche 18 mai 2025  
-> de 9h30 à 13h00   
-> **La ruche basse consommation**   
-> Par Mr. Benoit Gemis  
+> Dès septembre 2025  
+> 
 
 </div>
 <h5 class="drt"><a href="/agenda">Tous les détails ici</a></h5>
