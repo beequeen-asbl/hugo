@@ -7,26 +7,28 @@ layout: main
 <div class="block-group">
 <div class="block gauche_etroit">
 
-<i>Merci à</i>  
-<a href="https://www.travelec.be">TRAVELEC</a>   
-Herstal  
+<i>Merci à</i> <a href="https://www.garsou.com">Garsou</a> (Theux)  
 <div class="thumb">
-<a href="#" target="_blank"><img src="/static/img/Travelec2.jpg" alt="Travelec"/></a>
+<a href="#" target="_blank"><img src="/static/img/ruche_garsou_40pct.jpg" alt="Garsou"/></a>
 </div>
 
-<i>Merci à</i>  
-HALOCLINE  
+<hr>
+
+<i>Merci à</i> <a href="https://www.entreprise-demoitie.be">Demoitié</a> (Harre)  
 <div class="thumb">
-<a href="#" target="_blank"><img src="/static/img/Halocline2.jpg"></a>
+<a href="#" target="_blank"><img src="/static/img/ruche_demoitie.jpg"></a>
 </div>
 <br>
 <br>
+
+<hr>
 
 <i>Merci à nos anciens sponsors:</i>  
 Bio-Fagne (Theux)   
 Cornet-Mockel (Dison)   
-Garsou (Theux)  
 Lejeune Giovanelli (Pépinster)  
+Travelec (Herstal)  
+Halocine (Jalhay)  
 
 </div>
 <div class="block droite_large">
@@ -47,7 +49,7 @@ de l’abeille et de l’environnement.</p>
 <li>8. Vous recevrez chaque année le PV de notre assemblée générale pour que vous puissiez juger de la bonne gouvernance comptable de l’asbl.</li>
 </ul>
 
-<h3>TARIFS 2024</h3>
+<h3>TARIFS 2025</h3>
 <div class="withborder">
 <table>
 <tr>
