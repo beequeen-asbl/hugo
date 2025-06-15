@@ -12,19 +12,19 @@ description: Liens utiles
 Tout le monde est le bienvenu, que vous soyez apiculteur ou non, que vous soyez membre d'autres sections  
 Son objectif est la promotion et le développement de l'apiculture au travers de l'information et de recherches appliquées.  
 [www.cari.be](https://www.cari.be)  
-[butine.info](https://butine.info)  
-[Bee Wallonie](https://www.beewallonie.be)  
-[Buzz2beez, la chaîne Youtube du CARI](https://www.youtube.com/channel/UCyvJ18KdfQreFLj9UJCFd1Q/videos)  
+[butine.info, le blog du CARI](https://butine.info)  
+[Buzz2beez, la chaîne youtube du CARI](https://www.youtube.com/channel/UCyvJ18KdfQreFLj9UJCFd1Q/videos)  
 [Guide des bonnes pratiques apicoles](https://www.cari.be/Guide-de-bonnes-pratiques.html)
 
-<!--
+### - Bee Wallonie ###
+#### Apiculture wallonne ####
+Un enjeu social, économique et environnemental!  
+[www.beewallonie.be](https://www.beewallonie.be)  
 
 ### - Le CRA-W ###
 #### Centre wallon de Recherches agronomiques  ####
-[CRA-W](https://www.cra.wallonie.be/fr/)
-S'occupe entre-autres du suivi de l'invasion du Frelon asiatique en Wallonie
-
--->
+S'occupe entre-autres du suivi de l'invasion du Frelon asiatique en Wallonie  
+[CRA-W](https://www.cra.wallonie.be/fr/)  
 
 ### - le SPW ###
 #### Les Editions du Service public de Wallonie ####
