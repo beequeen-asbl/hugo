@@ -15,9 +15,9 @@ css: page_centree
 <p id="liens">
 
 Quelques liens internet:  
-- [Le frelon asiatique, espéces invasives en Wallonie, SPW](http://biodiversite.wallonie.be/servlet/Repository/?ID=40365)  
-- [Frelon asiatique *Vespa velutina nigrithorax*, M. De Proft, CRA-W](http://biodiversite.wallonie.be/servlet/Repository/16h40-michel-deproft-mesures-de-lutte-contre-le-frelon.pdf?ID=35834&amp;saveFile=true)  
-- [Frelon asiatique en Belgique, Actions-Conseils-Protection des ruchers 2017](http://www.cari.be/medias/actuapi/actuapi70.pdf)  
-- [Une carte de répartition du frelon asiatique en Wallonie](http://observatoire.biodiversite.wallonie.be/enquetes/frelon/)  
-- [Signaler une observation](http://observatoire.biodiversite.wallonie.be/enquetes/enquete.aspx?id=6&tax=vespa_velutina)  
+- [Le frelon asiatique, espéces invasives en Wallonie, SPW](https://biodiversite.wallonie.be/servlet/Repository/?ID=40365)  
+- [Frelon asiatique *Vespa velutina nigrithorax*, M. De Proft, CRA-W](https://biodiversite.wallonie.be/servlet/Repository/16h40-michel-deproft-mesures-de-lutte-contre-le-frelon.pdf?ID=35834&amp;saveFile=true)  
+- [Frelon asiatique en Belgique, Actions-Conseils-Protection des ruchers 2017](https://www.cari.be/medias/actuapi/actuapi70.pdf)  
+- [Une carte de répartition du frelon asiatique en Wallonie](https://observatoire.biodiversite.wallonie.be/enquetes/frelon/)  
+- [Signaler une observation](https://observatoire.biodiversite.wallonie.be/enquetes/enquete.aspx?id=6&tax=vespa_velutina)  
 

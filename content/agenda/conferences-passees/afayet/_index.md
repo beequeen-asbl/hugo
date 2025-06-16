@@ -17,4 +17,4 @@ css: page_centree
 
 ## Documents:
 
-*[![](/static/img/pdf.jpg ) Le support de sa conférence](http://pdf.beequeen.be/agenda/conferences-passees/afayet/FA-Apiculture-AF.pdf)
+*[![](/static/img/pdf.jpg ) Le support de sa conférence](https://pdf.beequeen.be/agenda/conferences-passees/afayet/FA-Apiculture-AF.pdf)

@@ -26,4 +26,4 @@ Conférence "Découverte d'une autre apiculture"
 
 ## Documents:
 
-* [![](/static/img/pdf.jpg ) Sa conférence lors de cette journée](http://pdf.beequeen.be/agenda/conferences-passees/gdejalle2/Decouverte-d-une-autre-apiculture-2014-CARI-2.pdf)
+* [![](/static/img/pdf.jpg ) Sa conférence lors de cette journée](https://pdf.beequeen.be/agenda/conferences-passees/gdejalle2/Decouverte-d-une-autre-apiculture-2014-CARI-2.pdf)

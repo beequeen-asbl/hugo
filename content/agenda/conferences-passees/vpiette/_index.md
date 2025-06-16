@@ -17,5 +17,5 @@ css: page_centree
 Le texte de son exposé:  
 
 
-[![](/static/img/pdf.jpg) Problèmes médicaux consécutifs aux piqûres d'abeilles](http://pdf.beequeen.be/agenda/conferences-passees/vpiette/problemes-medicaux-consecutifs-aux-piqures-d-abeilles.pdf)
+[![](/static/img/pdf.jpg) Problèmes médicaux consécutifs aux piqûres d'abeilles](https://pdf.beequeen.be/agenda/conferences-passees/vpiette/problemes-medicaux-consecutifs-aux-piqures-d-abeilles.pdf)
 

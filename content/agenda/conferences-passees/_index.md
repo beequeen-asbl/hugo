@@ -7,7 +7,7 @@ layout: main
 | Saison | Date | Conférencier | | Titre de la conférence |
 |------|---|---|-|---|
 | **2024-2025** | | | | |
-| | 18.05.2025 | Benoit GEMIS | | La ruche basse consommation |
+| | 18.05.2025 | Benoit GEMIS | ![](/static/img/pdf21.jpg) | [La ruche basse consommation](/agenda/conferences-passees/bgemis) |
 | | 09.02.2025 | Bernard LIEPIN | | L'impact des ondes électromagnétiques sur les abeilles |
 | | 12.01.2025 | Didier BRICK | | La récolte du pollen |
 | | 26.10.2024 | Victor HERMAN | | Fabrication de pièges pour lutter contre le frelon asiatique |

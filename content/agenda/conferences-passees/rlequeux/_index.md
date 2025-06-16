@@ -13,4 +13,4 @@ css: page_centree
 
 ## Document:
 
-[![](/static/img/pdf.jpg ) Le support de sa conférence](http://pdf.beequeen.be/agenda/conferences-passees/rlequeux/rlequeux.pdf)
+[![](/static/img/pdf.jpg ) Le support de sa conférence](https://pdf.beequeen.be/agenda/conferences-passees/rlequeux/rlequeux.pdf)

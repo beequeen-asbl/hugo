@@ -16,9 +16,9 @@ css: page_centree
 
 ## Documents:
 
-* [![](/static/img/pdf.jpg ) Le support de sa conférence](http://pdf.beequeen.be/agenda/conferences-passees/gdejalle/Présentation-cadre-témoin-2.pdf)  
-* [![](/static/img/pdf.jpg ) Comment couper un cadre témoin](http://pdf.beequeen.be/agenda/conferences-passees/gdejalle/Comment-couper-un-cadre-témoin.pdf)  
-* [![](/static/img/pdf.jpg ) Comment enlever un cadre témoin](http://pdf.beequeen.be/agenda/conferences-passees/gdejalle/Comment-enlever-un-cadre-témoin.pdf)  
-* [![](/static/img/pdf.jpg ) Comment lire un cadre témoin](http://pdf.beequeen.be/agenda/conferences-passees/gdejalle/Comment-lire-un-cadre-témoin.pdf)  
-* [![](/static/img/pdf.jpg ) Comment préparer un cadre témoin](http://pdf.beequeen.be/agenda/conferences-passees/gdejalle/Comment-préparer-un-cadre-témoin.pdf)  
+* [![](/static/img/pdf.jpg ) Le support de sa conférence](https://pdf.beequeen.be/agenda/conferences-passees/gdejalle/Présentation-cadre-témoin-2.pdf)  
+* [![](/static/img/pdf.jpg ) Comment couper un cadre témoin](https://pdf.beequeen.be/agenda/conferences-passees/gdejalle/Comment-couper-un-cadre-témoin.pdf)  
+* [![](/static/img/pdf.jpg ) Comment enlever un cadre témoin](https://pdf.beequeen.be/agenda/conferences-passees/gdejalle/Comment-enlever-un-cadre-témoin.pdf)  
+* [![](/static/img/pdf.jpg ) Comment lire un cadre témoin](https://pdf.beequeen.be/agenda/conferences-passees/gdejalle/Comment-lire-un-cadre-témoin.pdf)  
+* [![](/static/img/pdf.jpg ) Comment préparer un cadre témoin](https://pdf.beequeen.be/agenda/conferences-passees/gdejalle/Comment-préparer-un-cadre-témoin.pdf)  
 

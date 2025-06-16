@@ -35,7 +35,7 @@ En fin de matinée, nous échangerons entre nous, en toute bienveillance, de nos
 
 ## Documents:
 
-* [![](/static/img/pdf.jpg ) Le support de sa conférence](http://pdf.beequeen.be/agenda/conferences-passees/fgodet/17k29-apiculture-respectueuse.pdf)
+* [![](/static/img/pdf.jpg ) Le support de sa conférence](https://pdf.beequeen.be/agenda/conferences-passees/fgodet/17k29-apiculture-respectueuse.pdf)
 
 * Johannes WIRTZ, *Comprendre les abeilles et pratiquer une apiculture respectueuse de leur nature*,  
    article publié sur le site du [Mouvement de l’Agriculture Bio-Dynamique](http://www.bio-dynamie.org/biodynamie/apiculture-en-biodynamie/)  

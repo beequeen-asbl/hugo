@@ -25,5 +25,5 @@ Les thèmes abordés lors de la conférence seront la présentation de l’AFSCA
 
 ## Document:
 
-[![](/static/img/pdf.jpg ) Le support de sa conférence](http://pdf.beequeen.be/agenda/conferences-passees/jpgouders/JpGouders.pdf)
+[![](/static/img/pdf.jpg ) Le support de sa conférence](https://pdf.beequeen.be/agenda/conferences-passees/jpgouders/JpGouders.pdf)
 

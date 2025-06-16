@@ -12,4 +12,4 @@ css: page_centree
 > ### par le Docteur Frédéric LOUIS 
 
 ## Document:
-[![](/static/img/pdf.jpg ) Le support de sa conférence](http://pdf.beequeen.be/agenda/conferences-passees/drlouis/DrLouis.pdf)
+[![](/static/img/pdf.jpg ) Le support de sa conférence](https://pdf.beequeen.be/agenda/conferences-passees/drlouis/DrLouis.pdf)
